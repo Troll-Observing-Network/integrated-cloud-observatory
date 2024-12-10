@@ -4,28 +4,31 @@ project:
 
 website:
   title: "TONe - ICO"
-  sidebar:
-    contents:
+#  sidebar:
+#    contents:
+  navbar:
+    logo: logo-TONe-ICO.png
+#    logo-href: https://npolar.no
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/Troll-Observing-Network/integrated-cloud-observatory
+    left:
       - href: index.qmd
         text: Home
       - href: blog.qmd
         text: Blog
-#      - href: documentation.qmd
-#        text: Docs
       - href: dashboard.qmd
-        text: Dashboard
+        text: Dashboards
       - href: team.qmd
         text: Team
-#      - href: contact.qmd
-#        text: Contact
 
 format:
   html:
     theme: 
-      - brand
-      - cosmo
+      - cerulean
     css: styles.css
     toc: true
 
 bibliography: references.bib
-  
