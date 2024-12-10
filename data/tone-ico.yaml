@@ -1,0 +1,8 @@
+sources:
+    back-trajectories:
+      args:
+        urlpath: "https://icecaps-o.s3-ext.jc.rl.ac.uk/troll/back-trajectories"
+        consolidated: True
+      description: "HYSPLIT5 backward air parcel trajectories from Troll Station, Antarctica"
+      driver: zarr
+

@@ -1,0 +1,12 @@
+---
+title: "The ICO blog is up!"
+description: "Initial blog post for TONe ICO"
+author: "Von P. Walden"
+date: "12/3/2024"
+categories:
+  - general
+  - news
+image: Troll-Station-Blog.png
+---
+
+This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we'll be installing a bunch of new equipment for the Integrated Cloud Observatory.

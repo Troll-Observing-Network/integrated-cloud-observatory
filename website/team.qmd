@@ -1,0 +1,11 @@
+---
+title: "Team Members"
+---
+
+
+| Team Member            | Institution                 | Website                                                          |
+|------------------------|-----------------------------|------------------------------------------------------------------|
+| Steve Hudson (primary) | Norwegian Polar Institute   | https://www.npolar.no/en/people/stephen.hudson                   |
+| Ryan Neely III         | Norwegian Polar Institute   | https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii |
+| Mike Town              | Earth and Space Research    | https://www.esr.org/staff/michael-town/                          |
+| Von P. Walden          | Washington State University | https://labs.wsu.edu/lar-sensing/                                |

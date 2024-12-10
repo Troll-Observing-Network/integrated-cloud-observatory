@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "TONe - ICO"
+  sidebar:
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: documentation.qmd
+        text: Docs
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: blog.qmd
+        text: Blog
+      - href: team.qmd
+        text: Team
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: 
+      - brand
+      - cosmo
+    css: styles.css
+    toc: true
+
+bibliography: references.bib
+  
