@@ -1,0 +1,63 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "Goals\n\n\nInstruments\n\n\nMeasurements\n\n\nDeployments\n\nJan/Feb 2025\n\n\n\nNetwork"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Data Dashboards",
+    "section": "",
+    "text": "Uptime\n\n\nWeather\n\n\nRadiosondes\n\n\nCloud Radar\n\n\nCloud Lidar\n\n\nMicrowave Radiometer\n\n\nCloudNet\n\n\nBack Trajectories",
+    "crumbs": [
+      "Dashboard"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact information",
+    "section": "",
+    "text": "Name\nInstitution\nEmail address\n\n\n\n\nSteve Hudson (primary)\nNorwegian Polar Institute\nstephen.hudson@npolar.no\n\n\nRyan Neely III\nNorwegian Polar Institute\nr.neely@leeds.ac.uk\n\n\nMike Town\nEarth and Space Research\nmichael.town@esr.org\n\n\nVon P. Walden\nWashington State University\nv.walden@wsu.edu"
+  },
+  {
+    "objectID": "posts/the-blog-is-up/index.html",
+    "href": "posts/the-blog-is-up/index.html",
+    "title": "The ICO blog is up!",
+    "section": "",
+    "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team Members",
+    "section": "",
+    "text": "Team Member\nInstitution\nEmail\nWebsite\n\n\n\n\nSteve Hudson (primary)\nNorwegian Polar Institute\n{html}mailto:stephen.hudson@npolar.no\nhttps://www.npolar.no/en/people/stephen.hudson\n\n\nRyan Neely III\nNorwegian Polar Institute\nr.neely@leeds.ac.uk\nhttps://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii\n\n\nMike Town\nEarth and Space Research\nmichael.town@esr.org\nhttps://www.esr.org/staff/michael-town/\n\n\nVon P. Walden\nWashington State University\nv.walden@wsu.edu\nhttps://labs.wsu.edu/lar-sensing/",
+    "crumbs": [
+      "Team"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TONe Integrated Cloud Observatory",
+    "section": "",
+    "text": "Troll Station\n\n\n\n\n\n\n\n\n\nTroll Station\n\n\n\n\n\n\n\nDownhill to iceshelf\n\n\n\n\n\n\n\nUphill to polar plateau\n\n\n\n\n\nTroll Station is located in Antarctica in the katabatic wind region of Dronning Maud Land (-72.0 S, +2.5 E). The webcams above show the current weather conditions at Troll.\n\n\nThe ICO\nThe Integrated Cloud Observatory (ICO) is part of the Troll Observing Network (TONe), operated by the Norwegian Polar Institute. TONe and the ICO are described by Pedersen et al. (2024), along with other observatories.\n\n\n\n\n\nReferences\n\nPedersen, Christina A., Birgit Njåstad, Wenche Aas, Elin Darelius, Sébastien Descamps, Stig Flått, Tore Hattermann, et al. 2024. “The Troll Observing Network (TONe): Plugging Observation Holes in Dronning Maud Land, Antarctica.” Polar Research 43 (May). https://doi.org/10.33265/polar.v43.10370.",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]
