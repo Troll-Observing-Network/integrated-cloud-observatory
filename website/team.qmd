@@ -3,9 +3,9 @@ title: "Team Members"
 ---
 
 
-| Team Member            | Institution                 | Website                                                          |
-|------------------------|-----------------------------|------------------------------------------------------------------|
-| Steve Hudson (primary) | Norwegian Polar Institute   | https://www.npolar.no/en/people/stephen.hudson                   |
-| Ryan Neely III         | Norwegian Polar Institute   | https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii |
-| Mike Town              | Earth and Space Research    | https://www.esr.org/staff/michael-town/                          |
-| Von P. Walden          | Washington State University | https://labs.wsu.edu/lar-sensing/                                |
+| Team Member            | Institution                 | Email                    | Website                                                          |
+|------------------------|-----------------------------|--------------------------|------------------------------------------------------------------|
+| Steve Hudson (primary) | Norwegian Polar Institute   | ``` {html}mailto:stephen.hudson@npolar.no ``` | [https://www.npolar.no/en/people/stephen.hudson](https://www.npolar.no/en/people/stephen.hudson) |
+| Ryan Neely III         | Norwegian Polar Institute   | r.neely@leeds.ac.uk      | [https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii](https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii) |
+| Mike Town              | Earth and Space Research    | michael.town@esr.org     | [https://www.esr.org/staff/michael-town/](https://www.esr.org/staff/michael-town/) |
+| Von P. Walden          | Washington State University | v.walden@wsu.edu         | [https://labs.wsu.edu/lar-sensing/](https://labs.wsu.edu/lar-sensing/) |

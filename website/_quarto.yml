@@ -7,16 +7,16 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: documentation.qmd
-        text: Docs
-      - href: dashboard.qmd
-        text: Dashboard
       - href: blog.qmd
         text: Blog
+#      - href: documentation.qmd
+#        text: Docs
+      - href: dashboard.qmd
+        text: Dashboard
       - href: team.qmd
         text: Team
-      - href: contact.qmd
-        text: Contact
+#      - href: contact.qmd
+#        text: Contact
 
 format:
   html:

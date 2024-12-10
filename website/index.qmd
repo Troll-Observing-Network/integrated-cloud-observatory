@@ -8,9 +8,9 @@ title: "TONe Integrated Cloud Observatory"
 
 [![Troll Station](https://trollcam.npolar.no/TrollWebCam1HD.jpg)](https://trollcam.npolar.no/TrollWebCam1HD.jpg)
 
-[![Downhill towards iceshelf, sea ice, and ocean](https://trollcam.npolar.no/TrollWebCam2HD.jpg)](https://trollcam.npolar.no/TrollWebCam2HD.jpg)
+[![Downhill to iceshelf](https://trollcam.npolar.no/TrollWebCam2HD.jpg)](https://trollcam.npolar.no/TrollWebCam2HD.jpg)
 
-[![Uphill to the polar plateau](https://trollcam.npolar.no/TrollWebCam3HD.jpg)](https://trollcam.npolar.no/TrollWebCam3HD.jpg)
+[![Uphill to polar plateau](https://trollcam.npolar.no/TrollWebCam3HD.jpg)](https://trollcam.npolar.no/TrollWebCam3HD.jpg)
 
 :::
 
