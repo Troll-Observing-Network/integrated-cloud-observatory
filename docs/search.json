@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team Members",
@@ -14,11 +7,11 @@
     "text": "Team Member\nEmail\nInstitution\n\n\n\n\nSteve Hudson (primary)\nstephen.hudson@npolar.no\nNorwegian Polar Institute\n\n\nRyan Neely III\nr.neely@leeds.ac.uk\nUniversity of Leeds\n\n\nMike Town\nmichael.town@esr.org\nEarth and Space Research\n\n\nVon P. Walden\nv.walden@wsu.edu\nWashington State University"
   },
   {
-    "objectID": "posts/the-blog-is-up/index.html",
-    "href": "posts/the-blog-is-up/index.html",
-    "title": "The ICO blog is up!",
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Data Dashboards",
     "section": "",
-    "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
+    "text": "Weather\nBack Trajectories\n\n\nComing soon...\n  Uptime\n  Radiosondes\n  Cloud Radar\n  Cloud Lidar\n  Microwave Radiometer\n  CloudNet"
   },
   {
     "objectID": "posts/initial-dashboards/index.html",
@@ -28,11 +21,18 @@
     "text": "Have a look at the new data dashboards for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!"
   },
   {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Data Dashboards",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Weather\nBack Trajectories\n\n\nComing soon...\n  Uptime\n  Radiosondes\n  Cloud Radar\n  Cloud Lidar\n  Microwave Radiometer\n  CloudNet"
+    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/the-blog-is-up/index.html",
+    "href": "posts/the-blog-is-up/index.html",
+    "title": "The ICO blog is up!",
+    "section": "",
+    "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
   },
   {
     "objectID": "index.html",

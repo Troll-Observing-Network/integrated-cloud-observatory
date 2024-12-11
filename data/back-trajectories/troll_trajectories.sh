@@ -5,6 +5,7 @@ cd /home/vonw/work/software/Troll-Observing-Network/integrated-cloud-observatory
 /home/vonw/anaconda3/envs/work/bin/python create_troll_trajectories.py
 /home/vonw/anaconda3/envs/work/bin/python troll_trajectory_plots.py
 cp docs/index.html ../../website/data/back-trajectories/.
+quarto render
 
 eval $(ssh-agent -s)
 ssh-add ~/.ssh/id_rsa
