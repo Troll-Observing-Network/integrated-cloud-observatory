@@ -5,7 +5,7 @@ title: "Team Members"
 
 | Team Member            | Email                                                       | Institution                                                                 |
 |------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Steve Hudson (primary) | [stephen.hudson@npolar.no](mailto:stephen.hudson@npolar.no) | [Norwegian Polar Institute](https://www.npolar.no/en/people/stephen.hudson) |
+| Steve Hudson (Lead) | [stephen.hudson@npolar.no](mailto:stephen.hudson@npolar.no) | [Norwegian Polar Institute](https://www.npolar.no/en/people/stephen.hudson) |
 | Ryan Neely III         | [r.neely@leeds.ac.uk](mailto:r.neely@leeds.ac.uk)           | [University of Leeds](https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii) |
 | Mike Town              | [michael.town@esr.org](mailto:michael.town@esr.org)         | [Earth and Space Research](https://www.esr.org/staff/michael-town/) |
 | Von P. Walden          | [v.walden@wsu.edu](mailto:v.walden@wsu.edu)                 | [Washington State University](https://labs.wsu.edu/lar-sensing/) |
