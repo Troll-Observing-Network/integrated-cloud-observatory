@@ -2,7 +2,7 @@
 title: "TONe Integrated Cloud Observatory"
 ---
 
-### Troll Station
+::: {.column-screen-inset}
 
 ::: {layout-ncol=3}
 
@@ -14,11 +14,16 @@ title: "TONe Integrated Cloud Observatory"
 
 :::
 
+:::
+
+::: {.column-page-inset}
+
+### Troll Station
+
 Troll Station is located in Antarctica in the katabatic wind region of Dronning Maud Land (-72.0 S, +2.5 E). The webcams above show the current weather conditions at Troll.
 
 ### The ICO
 
 The Integrated Cloud Observatory (ICO) is part of the Troll Observing Network (TONe), operated by the [Norwegian Polar Institute](https://npolar.no). TONe and the ICO are described by @pedersenTrollObservingNetwork2024, along with other observatories. 
 
-
-
+:::
