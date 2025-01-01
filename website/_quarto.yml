@@ -27,7 +27,7 @@ website:
 format:
   html:
     theme: 
-      - darkly
+      - yeti
     css: styles.css
     toc: true
 
