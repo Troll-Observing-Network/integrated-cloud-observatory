@@ -14,8 +14,7 @@ hvplot.extension('bokeh', comms='vscode')
 
 # %%
 d = '/mnt/disk2/data/hysplit/backTrajectories/'
-dstr = '2024'
-fns = sorted(glob(d + 'Troll_' + dstr + '*.trj'))
+fns = sorted(glob(d + 'Troll_*.trj'))
 
 time       = []
 lat_median = []
