@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCargo ship docked at Troll\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nThe cargo ship has reached Troll Station\n\n\n\n\n\nJan 8, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team Members",
@@ -7,25 +14,18 @@
     "text": "Team Member\nEmail\nInstitution\n\n\n\n\nSteve Hudson (Lead)\nstephen.hudson@npolar.no\nNorwegian Polar Institute\n\n\nRyan Neely III\nr.neely@leeds.ac.uk\nUniversity of Leeds\n\n\nMike Town\nmichael.town@esr.org\nEarth and Space Research\n\n\nVon P. Walden\nv.walden@wsu.edu\nWashington State University"
   },
   {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Data Dashboards",
+    "objectID": "posts/the-blog-is-up/index.html",
+    "href": "posts/the-blog-is-up/index.html",
+    "title": "The ICO blog is up!",
     "section": "",
-    "text": "Weather\nBack Trajectories\n\n\nComing soon...\n  Uptime\n  Radiosondes\n  Cloud Radar\n  Cloud Lidar\n  Microwave Radiometer\n  CloudNet"
+    "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
   },
   {
-    "objectID": "posts/initial-dashboards/index.html",
-    "href": "posts/initial-dashboards/index.html",
-    "title": "New dashboards",
+    "objectID": "posts/ship-docked-at-ice-shelf/index.html",
+    "href": "posts/ship-docked-at-ice-shelf/index.html",
+    "title": "Cargo ship docked at Troll",
     "section": "",
-    "text": "Have a look at the new data dashboards for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
+    "text": "The cargo ship for Troll Station has docked to the Fimbul Ice Shelf. The cargo must now be offloaded on to the ice shelf using the enormous cranes on the ship. The cargo must then be transported across the ice shelf and onto the Antarctic continent, uphill to Troll Station. The cargo will include three “seatainers” that include all of the equipment that will be installed as part of the Integrated Cloud Observatory. Our installation team will start their journey south next week. We’re hoping that the cargo will already be in Troll by the time they arrive. Bon voyage!!\n(Thanks to Øyvind Foss from the Norwegian Polar Institute for supplying the image.)"
   },
   {
     "objectID": "posts/Troll2025/index.html",
@@ -35,11 +35,18 @@
     "text": "2025 will be a BIG year for the TONe Integrated Cloud Observatory. We have an international team of researchers leaving for Troll soon (mid January) to start installing instruments. We’re hoping to have a cloud radar, a depolarization lidar, and a microwave radiometer operating by the end of the austral summer season (late February). We will also have an automatic radiosonde launcher sending daily weather balloons through the atmosphere. We will also be installing iButton temperature sensors around the station; if you don’t know what these are, stayed tuned. It should be an exciting year of new data and new discoveries !!"
   },
   {
-    "objectID": "posts/the-blog-is-up/index.html",
-    "href": "posts/the-blog-is-up/index.html",
-    "title": "The ICO blog is up!",
+    "objectID": "posts/initial-dashboards/index.html",
+    "href": "posts/initial-dashboards/index.html",
+    "title": "New dashboards",
     "section": "",
-    "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
+    "text": "Have a look at the new data dashboards for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Data Dashboards",
+    "section": "",
+    "text": "Weather\nBack Trajectories\n\n\nComing soon...\n  Uptime\n  Radiosondes\n  Cloud Radar\n  Cloud Lidar\n  Microwave Radiometer\n  CloudNet"
   },
   {
     "objectID": "index.html",
