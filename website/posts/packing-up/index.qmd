@@ -11,3 +11,5 @@ image: neely-tools.JPG
 ---
 
 It is getting close to being time to go. Lots of details to sort and things to pack but everything is falling into place.
+
+![A shelf in Neely's toolbox](neely-tools.JPG)
