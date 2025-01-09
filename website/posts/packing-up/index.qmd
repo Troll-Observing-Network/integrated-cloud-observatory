@@ -1,0 +1,13 @@
+---
+title: "Packing Up"
+description: "Getting Ready to Go"
+author: "Ryan R. Neely III"
+date: "1/9/2025"
+categories:
+  - general
+  - news
+  - deployment
+image: neely-tools.JPG
+---
+
+It is getting close to being time to go. Lots of details to sort and things to pack but everything is falling into place.
