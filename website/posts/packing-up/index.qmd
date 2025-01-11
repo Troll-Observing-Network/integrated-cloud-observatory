@@ -1,0 +1,15 @@
+---
+title: "Packing Up in the UK"
+description: "Getting Ready to Go"
+author: "Ryan R. Neely III"
+date: "1/9/2025"
+categories:
+  - general
+  - news
+  - deployment
+image: neely-tools.JPG
+---
+
+It’s getting close to being time to go, and the reality of the trip is starting to sink in. There’s a mix of excitement and nervousness as I juggle the last-minute details and figure out everything that needs to be done before I leave. Packing has become an art form of sorts—balancing what I’ll need against what I think I’ll need and trying not to overdo it. It’s a delicate line to walk, especially knowing that there will be no next-day deliveries if I forget something important.
+
+![A shelf in Neely's toolbox](neely-tools.JPG)
