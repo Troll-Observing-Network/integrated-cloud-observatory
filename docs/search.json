@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team Members",
-    "section": "",
-    "text": "Team Member\nEmail\nInstitution\n\n\n\n\nSteve Hudson (Lead)\nstephen.hudson@npolar.no\nNorwegian Polar Institute\n\n\nMarius Bratrein\nMarius.Bratrein@npolar.no\nNorwegian Polar Institute\n\n\nRyan Neely III\nr.neely@leeds.ac.uk\nUniversity of Leeds\n\n\nMike Town\nmichael.town@esr.org\nEarth and Space Research\n\n\nVon P. Walden\nv.walden@wsu.edu\nWashington State University"
-  },
-  {
     "objectID": "dashboard.html",
     "href": "dashboard.html",
     "title": "Data Dashboards",
     "section": "",
     "text": "Weather\nBack Trajectories\n\n\nComing soon...\n  Uptime\n  Radiosondes\n  Cloud Radar\n  Cloud Lidar\n  Microwave Radiometer\n  CloudNet"
-  },
-  {
-    "objectID": "posts/initial-dashboards/index.html",
-    "href": "posts/initial-dashboards/index.html",
-    "title": "New dashboards",
-    "section": "",
-    "text": "Have a look at the new data dashboards for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!"
-  },
-  {
-    "objectID": "posts/packing-up/index.html",
-    "href": "posts/packing-up/index.html",
-    "title": "Packing Up in the UK",
-    "section": "",
-    "text": "It’s getting close to being time to go, and the reality of the trip is starting to sink in. There’s a mix of excitement and nervousness as I juggle the last-minute details and figure out everything that needs to be done before I leave. Packing has become an art form of sorts—balancing what I’ll need against what I think I’ll need and trying not to overdo it. It’s a delicate line to walk, especially knowing that there will be no next-day deliveries if I forget something important.\n\n\n\nA shelf in Neely’s toolbox"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPacking Up in the UK\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndeployment\n\n\n\nGetting Ready to Go\n\n\n\n\n\nJan 9, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nCargo ship docked at Troll\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nThe cargo ship has reached Troll Station\n\n\n\n\n\nJan 8, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Troll2025/index.html",
@@ -56,10 +28,45 @@
     "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctica: A Special Place Worth Protecting\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nMike scrubs his boots free of Cascade mud\n\n\n\n\n\nJan 13, 2025\n\n\nMichael S. Town\n\n\n\n\n\n\n\n\n\n\n\n\nPacking Up in the UK\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndeployment\n\n\n\nGetting Ready to Go\n\n\n\n\n\nJan 9, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nCargo ship docked at Troll\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nThe cargo ship has reached Troll Station\n\n\n\n\n\nJan 8, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "TONe Integrated Cloud Observatory",
     "section": "",
     "text": "Troll Station\n\n\n\n\n\n\n\nDownhill to iceshelf\n\n\n\n\n\n\n\nUphill to polar plateau\n\n\n\n\n\n\n\n\nTroll Station\nTroll Station is located in Antarctica in the katabatic wind region of Dronning Maud Land (-72.0 S, +2.5 E). The webcams above show the current weather conditions at Troll.\n\n\nThe ICO\nThe Integrated Cloud Observatory (ICO) is part of the Troll Observing Network (TONe), operated by the Norwegian Polar Institute. TONe and the ICO are described by Pedersen et al. (2024), along with other observatories.\n\n\n\n\n\n\nReferences\n\nPedersen, Christina A., Birgit Njåstad, Wenche Aas, Elin Darelius, Sébastien Descamps, Stig Flått, Tore Hattermann, et al. 2024. “The Troll Observing Network (TONe): Plugging Observation Holes in Dronning Maud Land, Antarctica.” Polar Research 43 (May). https://doi.org/10.33265/polar.v43.10370."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team Members",
+    "section": "",
+    "text": "Team Member\nEmail\nInstitution\n\n\n\n\nSteve Hudson (Lead)\nstephen.hudson@npolar.no\nNorwegian Polar Institute\n\n\nMarius Bratrein\nMarius.Bratrein@npolar.no\nNorwegian Polar Institute\n\n\nRyan Neely III\nr.neely@leeds.ac.uk\nUniversity of Leeds\n\n\nMike Town\nmichael.town@esr.org\nEarth and Space Research\n\n\nVon P. Walden\nv.walden@wsu.edu\nWashington State University"
+  },
+  {
+    "objectID": "posts/packing-up/index.html",
+    "href": "posts/packing-up/index.html",
+    "title": "Packing Up in the UK",
+    "section": "",
+    "text": "It’s getting close to being time to go, and the reality of the trip is starting to sink in. There’s a mix of excitement and nervousness as I juggle the last-minute details and figure out everything that needs to be done before I leave. Packing has become an art form of sorts—balancing what I’ll need against what I think I’ll need and trying not to overdo it. It’s a delicate line to walk, especially knowing that there will be no next-day deliveries if I forget something important.\n\n\n\nA shelf in Neely’s toolbox"
+  },
+  {
+    "objectID": "posts/antarctica-is-a-special-place-worth-protecting/index.html",
+    "href": "posts/antarctica-is-a-special-place-worth-protecting/index.html",
+    "title": "Antarctica: A Special Place Worth Protecting",
+    "section": "",
+    "text": "Antarctica is unlike any other place on Earth. It is a continent dedicated to science and cooperation, (relatively) free from territorial disputes or military conflicts— it remains a rare example of what humanity can achieve when we prioritize shared goals over competition. Governed by the Antarctic Treaty System, it is a symbol of what is possible when nations come together to protect a place for peaceful purposes and the pursuit of knowledge.\nBut protecting Antarctica requires effort at every level. It’s not just about the broad, robust international agreements; it’s about the small, everyday actions too. Every scientist, technician, and visitor to the icy expanse plays a role in keeping it pristine. This includes scrubbing boots free of mud and dirt to prevent the introduction of foreign diseases or pollen that could disrupt this fragile environment.\nThe Integrated Cloud Observatory team’s work focuses on placing atmospheric and surface observing instrumentation that will help understand the energy and mass fluxes into Antarctica. By improving our understanding of these processes, we hope to enhance predictions of sea level rise—a critical challenge in the face of climate change. One of the largest uncertainties in Antarctic ice sheet mass balance lies in the accumulation of the East Antarctic Ice Sheet. Its behavior is not just a question of regional importance but a factor that influences the entire global climate system.\nAntarctica is special in its own right, a stark and beautiful wilderness that inspires awe and respect. But it’s also a vital piece of the planet’s climate puzzle. To lose it to carelessness or inaction would be a loss for the world. By protecting this extraordinary place—through treaties, through science, and even through scrubbing boots—we protect not just its uniqueness but its role as a cornerstone of Earth’s climate stability.\n\n\n\nMike srubbing his boots free of Cascade mud."
+  },
+  {
+    "objectID": "posts/initial-dashboards/index.html",
+    "href": "posts/initial-dashboards/index.html",
+    "title": "New dashboards",
+    "section": "",
+    "text": "Have a look at the new data dashboards for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!"
   }
 ]
