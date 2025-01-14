@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # ....Import hysplit
-sys.path.append('/home/vonw/work/software/backTrajectories/')
+sys.path.append('/home/vonw/work/vaults/software/backTrajectories/')
 import hysplit
 
 def download_GFS_data(date):
