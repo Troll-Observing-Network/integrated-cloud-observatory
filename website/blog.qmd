@@ -5,6 +5,7 @@ listing:
   sort: "date desc"
   type: default
   categories: true
+  feed: true
 ---
 
 This blog documents the on-going, research activities of the TONe ICO in Antarctica.
