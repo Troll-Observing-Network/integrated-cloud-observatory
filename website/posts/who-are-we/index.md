@@ -16,7 +16,12 @@ image: penguin_team.webp
 **Expedition Leader**  
 Senior Researcher at the [Norwegian Polar Institute](https://www.npolar.no/)
 
-Dr. Hudson leads the work package responsible for developing the Integrated Cloud Observatory with [TONe](https://www.npolar.no/en/tone/). His research focuses on how ice and snow interact with sunlight to affect Earth’s climate. Fascinated by polar regions since high school, Steve spent a winter at the South Pole in 2001 during graduate school. This experience sparked a passion for fieldwork, leading to multiple Arctic and Antarctic expeditions.
+Steve is a research scientist at the Norwegian Polar Institute, specializing in atmospheric science, light, and heat budgets in polar regions. He studied atmospheric science from his undergraduate degree at Cornell University through his PhD at the University of Washington, focusing on the heat budget and light interactions over Antarctica. Since moving to Norway in 2008, Steve has contributed to projects on Arctic sea ice, Svalbard glaciers, and weather and climate dynamics around Troll Station, Antarctica.
+
+In the TONe project, Steve is leading the work package developing the Integrated Cloud Observatory. He brings expertise in the relationship between clouds and the accumulation or melt of snow in polar regions while collaborating closely with colleagues for broader expertise.
+
+Outside of his work, Steve enjoys scuba diving and traveling, often combining the two in his adventures.
+
 :::
 ::: {.column width="40%"}
 ![Steve](steve.jpg){width=100%}
@@ -32,9 +37,11 @@ Dr. Hudson leads the work package responsible for developing the Integrated Clou
 Instrumentation Engineer at the [Norwegian Polar Institute](https://www.npolar.no/)
 
 Marius has a broad background in electrical engineering, instrumentation, logistics, and polar exploration. He has worked closely with Steve to prepare everything for the expedition to Troll, bringing invaluable technical expertise to the team.
+
 :::
 ::: {.column width="40%"}
-![Marius](marius.png){width=100%}
+![Marius](marius.jpeg){width=100%}
+photo credit: Tor-Ivan Karlsen/NPI
 :::
 ::::
 
@@ -43,10 +50,16 @@ Marius has a broad background in electrical engineering, instrumentation, logist
 :::: {.columns}
 ::: {.column width="60%"}
 ## Dr. Michael (Mike) Town  
-**Climate Scientist**  
-Vice President and Researcher at [Earth and Space Research](https://www.esr.org/)
+**Atmospheric Scientist and Glaciologist**  
+Vice President and Research Scientist at [Earth and Space Research](https://www.esr.org/)
 
-Like Steve, Mike dreamed of adventurous fieldwork from an early age and fulfilled this dream in graduate school, wintering at the South Pole alongside Steve in 2001. His current research focuses on the surface energy budget over polar snow.
+Mike currently studies the evolving interaction between the atmosphere and near-surface snow in polar regions.
+
+Mike (and ESR) is very excited to be part of the TONe-ICO project. His roles in the field include, but are not limited to:
+1. designing and implementing the surface science observations supporting the TONe-ICO project
+2. putting wires through holes
+3. moving things from here to there and back again
+
 :::
 ::: {.column width="40%"}
 ![Mike](mike.jpg){width=100%}
@@ -61,7 +74,8 @@ Like Steve, Mike dreamed of adventurous fieldwork from an early age and fulfille
 **Engineer**  
 Project Engineer at the [Norwegian Polar Institute](https://www.npolar.no/)
 
-Even supports the [TONe](https://www.npolar.no/en/tone/) project and brings valuable local knowledge from his year at Troll. His technical and logistical expertise is a crucial asset to the expedition.
+Even supports the [TONe](https://www.npolar.no/en/tone/) project and brings valuable local knowledge from his winterover at Troll and field experience as satellite engineer in Svalbard. His technical and logistical expertise is a crucial asset to the expedition.
+
 :::
 ::: {.column width="40%"}
 ![Even](even.jpg){width=100%}
@@ -72,11 +86,14 @@ Even supports the [TONe](https://www.npolar.no/en/tone/) project and brings valu
 
 :::: {.columns}
 ::: {.column width="60%"}
-## Dr. Ryan (Neely) R. Neely  
+## Dr. Ryan (Neely) R. Neely III
 **Atmospheric Scientist**  
 Associate Professor at the [University of Leeds](https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii) and [NCAS](https://ncas.ac.uk/)
 
-Dr. Neely specializes in using remote sensing technologies, such as radar and lidar, to observe precipitation, clouds, and aerial fauna in innovative ways.
+Neely specializes in using remote sensing technologies, such as radar and lidar, to observe precipitation, clouds, and aerial fauna in innovative ways.
+
+Neely will be leading the installation of the remote sensing instrumentation on the ICO building. 
+
 :::
 ::: {.column width="40%"}
 ![Neely](neely.png){width=100%}
@@ -87,11 +104,14 @@ Dr. Neely specializes in using remote sensing technologies, such as radar and li
 
 :::: {.columns}
 ::: {.column width="60%"}
-## Prof. Von Walden  
+## Prof. Von P. Walden  
 **Atmospheric Scientist**  
 Professor at [Washington State University](https://ce.wsu.edu/faculty/walden/)
 
-Prof. Walden is a leading authority on meteorology, climatology, and global climate change. He conducts research in Antarctica, the Arctic, and the western USA, focusing on air pollution and water resources.
+Von is a leading authority on meteorology, climatology, and global climate change. He conducts research in Antarctica, the Arctic, and the western USA, focusing on air pollution and water resources.
+
+Von will be providing critical technical and scientific support for the field team from the United States.
+
 :::
 ::: {.column width="40%"}
 ![Von](von.jpg){width=100%}
