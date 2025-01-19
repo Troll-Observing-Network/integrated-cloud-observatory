@@ -2,6 +2,11 @@
   {
     "listing": "/blog.html",
     "items": [
+<<<<<<< HEAD
+=======
+      "/posts/who-are-we/index.html",
+      "/posts/a-different-type-of-train/index.html",
+>>>>>>> e2cea9c (Initial Draft of Team Blog)
       "/posts/first-stop-Prague/index.html",
       "/posts/a-different-type-of-train/index.html",
       "/posts/on-the-move/index.html",

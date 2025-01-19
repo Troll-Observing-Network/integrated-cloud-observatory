@@ -1,5 +1,15 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho, Who, Who Are We?\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nThe Team\n\n\n\n\n\nJan 19, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nA different type of train\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nTransport of ICO equipment containers\n\n\n\n\n\nJan 17, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nFirst stop. Prague\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nIt’s a long way to Troll…\n\n\n\n\n\nJan 17, 2025\n\n\nSteve Hudson\n\n\n\n\n\n\n\n\n\n\n\n\nOn the move…\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nICO team travels to Troll Station\n\n\n\n\n\nJan 15, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctica: A Special Place Worth Protecting\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nMike scrubs his boots free of Cascade mud\n\n\n\n\n\nJan 13, 2025\n\n\nMichael S. Town\n\n\n\n\n\n\n\n\n\n\n\n\nPacking Up in the UK\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndeployment\n\n\n\nGetting Ready to Go\n\n\n\n\n\nJan 9, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nCargo ship docked at Troll\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nThe cargo ship has reached Troll Station\n\n\n\n\n\nJan 8, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+>>>>>>> e2cea9c (Initial Draft of Team Blog)
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team Members",
@@ -49,11 +59,53 @@
     "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst stop. Prague\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nIt’s a long way to Troll…\n\n\n\n\n\nJan 17, 2025\n\n\nSteve Hudson\n\n\n\n\n\n\n\n\n\n\n\n\nA different type of train\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nTransport of ICO equipment containers\n\n\n\n\n\nJan 17, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nOn the move…\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nICO team travels to Troll Station\n\n\n\n\n\nJan 15, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctica: A Special Place Worth Protecting\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nMike scrubs his boots free of Cascade mud\n\n\n\n\n\nJan 13, 2025\n\n\nMichael S. Town\n\n\n\n\n\n\n\n\n\n\n\n\nPacking Up in the UK\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndeployment\n\n\n\nGetting Ready to Go\n\n\n\n\n\nJan 9, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nCargo ship docked at Troll\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nThe cargo ship has reached Troll Station\n\n\n\n\n\nJan 8, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/first-stop-Prague/index.html",
-    "href": "posts/first-stop-Prague/index.html",
-    "title": "First stop. Prague",
+    "objectID": "posts/who-are-we/index.html#dr.-stephen-steve-hudson",
+    "href": "posts/who-are-we/index.html#dr.-stephen-steve-hudson",
+    "title": "Who, Who, Who Are We?",
+    "section": "Dr. Stephen (Steve) Hudson",
+    "text": "Dr. Stephen (Steve) Hudson\nExpedition Leader\nSenior Researcher at the Norwegian Polar Institute\nDr. Hudson leads the work package responsible for developing the Integrated Cloud Observatory with TONe. His research focuses on how ice and snow interact with sunlight to affect Earth’s climate. Fascinated by polar regions since high school, Steve spent a winter at the South Pole in 2001 during graduate school. This experience sparked a passion for fieldwork, leading to multiple Arctic and Antarctic expeditions."
+  },
+  {
+    "objectID": "posts/who-are-we/index.html#marius-bratrein",
+    "href": "posts/who-are-we/index.html#marius-bratrein",
+    "title": "Who, Who, Who Are We?",
+    "section": "Marius Bratrein",
+    "text": "Marius Bratrein\nElectrical Engineer\nInstrumentation Engineer at the Norwegian Polar Institute\nMarius has a broad background in electrical engineering, instrumentation, logistics, and polar exploration. He has worked closely with Steve to prepare everything for the expedition to Troll, bringing invaluable technical expertise to the team."
+  },
+  {
+    "objectID": "posts/who-are-we/index.html#dr.-michael-mike-town",
+    "href": "posts/who-are-we/index.html#dr.-michael-mike-town",
+    "title": "Who, Who, Who Are We?",
+    "section": "Dr. Michael (Mike) Town",
+    "text": "Dr. Michael (Mike) Town\nClimate Scientist\nVice President and Researcher at Earth and Space Research\nLike Steve, Mike dreamed of adventurous fieldwork from an early age and fulfilled this dream in graduate school, wintering at the South Pole alongside Steve in 2001. His current research focuses on the surface energy budget over polar snow."
+  },
+  {
+    "objectID": "posts/who-are-we/index.html#even-birkeland",
+    "href": "posts/who-are-we/index.html#even-birkeland",
+    "title": "Who, Who, Who Are We?",
+    "section": "Even Birkeland",
+    "text": "Even Birkeland\nEngineer\nProject Engineer at the Norwegian Polar Institute\nEven supports the TONe project and brings valuable local knowledge from his year at Troll. His technical and logistical expertise is a crucial asset to the expedition."
+  },
+  {
+    "objectID": "posts/who-are-we/index.html#dr.-ryan-neely-r.-neely",
+    "href": "posts/who-are-we/index.html#dr.-ryan-neely-r.-neely",
+    "title": "Who, Who, Who Are We?",
+    "section": "Dr. Ryan (Neely) R. Neely",
+    "text": "Dr. Ryan (Neely) R. Neely\nAtmospheric Scientist\nAssociate Professor at the University of Leeds and NCAS\nDr. Neely specializes in using remote sensing technologies, such as radar and lidar, to observe precipitation, clouds, and aerial fauna in innovative ways."
+  },
+  {
+    "objectID": "posts/who-are-we/index.html#prof.-von-walden",
+    "href": "posts/who-are-we/index.html#prof.-von-walden",
+    "title": "Who, Who, Who Are We?",
+    "section": "Prof. Von Walden",
+    "text": "Prof. Von Walden\nAtmospheric Scientist\nProfessor at Washington State University\nProf. Walden is a leading authority on meteorology, climatology, and global climate change. He conducts research in Antarctica, the Arctic, and the western USA, focusing on air pollution and water resources."
+  },
+  {
+    "objectID": "posts/Troll2025/index.html",
+    "href": "posts/Troll2025/index.html",
+    "title": "Happy New Year!",
     "section": "",
-    "text": "We just landed in Prague. Annoying because I’ve never been here but only the crew are getting off the plane (and it’s midnight). The business class level meal between Oslo and here was a pleasant surprise though.\nOur flight plan is Oslo - Prague - Abuja, Nigeria -&gt; Cape Town -&gt; Troll. We’ll stay in Cape Town for just enough time for the flight crew to rest. Then it’s down to Troll, where we land on a runway made of ice. There’s about a mile of ice below it before you hit rock. Sounds good, right?\n\n\n\nNice inflight meal to Prague"
+    "text": "2025 will be a BIG year for the TONe Integrated Cloud Observatory. We have an international team of researchers leaving for Troll soon (mid January) to start installing instruments. We’re hoping to have a cloud radar, a depolarization lidar, and a microwave radiometer operating by the end of the austral summer season (late February). We will also have an automatic radiosonde launcher sending daily weather balloons through the atmosphere. We will also be installing iButton temperature sensors around the station; if you don’t know what these are, stayed tuned. It should be an exciting year of new data and new discoveries !!"
   },
   {
     "objectID": "posts/a-different-type-of-train/index.html",
@@ -63,6 +115,23 @@
     "text": "This might be a different type of train than you’re used to. First of all, this train travels on skis, not tracks. Second, this train will travel across the Fimbul Ice Shelf and then onto the Antarctic continent at Troll Station. It will deliver some very important cargo for the ICO. Some of the containers shown in the image contain equipment for the ICO and will soon become buildings that house the ICO. Our field team is flying to Cape Town today and is super happy (and relieved) to see this train moving!!\n\n\n\nCargo train ready to move out"
   },
   {
+<<<<<<< HEAD
+=======
+    "objectID": "posts/first-stop-Prague/index.html",
+    "href": "posts/first-stop-Prague/index.html",
+    "title": "First stop. Prague",
+    "section": "",
+    "text": "We just landed in Prague. Annoying because I’ve never been here but only the crew are getting off the plane (and it’s midnight). The business class level meal between Oslo and here was a pleasant surprise though.\nOur flight plan is Oslo - Prague - Abuja, Nigeria -&gt; Cape Town -&gt; Troll. We’ll stay in Cape Town for just enough time for the flight crew to rest. Then it’s down to Troll, where we land on a runway made of ice. There’s about a mile of ice below it before you hit rock. Sounds good, right?\n\n\n\nNice inflight meal to Prague"
+  },
+  {
+    "objectID": "posts/packing-up/index.html",
+    "href": "posts/packing-up/index.html",
+    "title": "Packing Up in the UK",
+    "section": "",
+    "text": "It’s getting close to being time to go, and the reality of the trip is starting to sink in. There’s a mix of excitement and nervousness as I juggle the last-minute details and figure out everything that needs to be done before I leave. Packing has become an art form of sorts—balancing what I’ll need against what I think I’ll need and trying not to overdo it. It’s a delicate line to walk, especially knowing that there will be no next-day deliveries if I forget something important.\n\n\n\nA shelf in Neely’s toolbox"
+  },
+  {
+>>>>>>> e2cea9c (Initial Draft of Team Blog)
     "objectID": "posts/ship-docked-at-ice-shelf/index.html",
     "href": "posts/ship-docked-at-ice-shelf/index.html",
     "title": "Cargo ship docked at Troll",
