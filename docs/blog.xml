@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>TONe - ICO</title>
+<link>https://troll-observing-network.github.io/integrated-cloud-observatory/blog.html</link>
+<atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Sun, 19 Jan 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Who, Who, Who Are We?</title>
+  <dc:creator>Ryan R. Neely III</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="here-is-a-bit-about-who-we-are-and-what-we-do." class="level3">
+<h3 class="anchored" data-anchor-id="here-is-a-bit-about-who-we-are-and-what-we-do.">Here is a bit about who we are and what we do.</h3>
+</section>
+<div class="columns">
+<div class="column" style="width:60%;">
+<section id="dr.-stephen-steve-hudson" class="level2">
+<h2 class="anchored" data-anchor-id="dr.-stephen-steve-hudson">Dr.&nbsp;Stephen (Steve) Hudson</h2>
+<p><strong>Expedition Leader</strong><br>
+Senior Researcher at the <a href="https://www.npolar.no/">Norwegian Polar Institute</a></p>
+<p>Steve is a research scientist at the Norwegian Polar Institute, specializing in atmospheric science, light, and heat budgets in polar regions. He studied atmospheric science from his undergraduate degree at Cornell University through his PhD at the University of Washington, focusing on the heat budget and light interactions over Antarctica. Since moving to Norway in 2008, Steve has contributed to projects on Arctic sea ice, Svalbard glaciers, and weather and climate dynamics around Troll Station, Antarctica.</p>
+<p>In the TONe project, Steve is leading the work package developing the Integrated Cloud Observatory. He brings expertise in the relationship between clouds and the accumulation or melt of snow in polar regions while collaborating closely with colleagues for broader expertise.</p>
+<p>Outside of his work, Steve enjoys scuba diving and traveling, often combining the two in his adventures.</p>
+</section>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/steve.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Steve</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="columns">
+<div class="column" style="width:60%;">
+<section id="marius-bratrein" class="level2">
+<h2 class="anchored" data-anchor-id="marius-bratrein">Marius Bratrein</h2>
+<p><strong>Electrical Engineer</strong><br>
+Instrumentation Engineer at the <a href="https://www.npolar.no/">Norwegian Polar Institute</a></p>
+<p>Marius has a broad background in electrical engineering, instrumentation, logistics, and polar exploration. He has worked closely with Steve to prepare everything for the expedition to Troll, bringing invaluable technical expertise to the team.</p>
+</section>
+</div><div class="column" style="width:40%;">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/marius.jpeg" class="img-fluid" style="width:100.0%" alt="Marius"> photo credit: Tor-Ivan Karlsen/NPI</p>
+</div>
+</div>
+<hr>
+<div class="columns">
+<div class="column" style="width:60%;">
+<section id="dr.-michael-mike-town" class="level2">
+<h2 class="anchored" data-anchor-id="dr.-michael-mike-town">Dr.&nbsp;Michael (Mike) Town</h2>
+<p><strong>Atmospheric Scientist and Glaciologist</strong><br>
+Vice President and Research Scientist at <a href="https://www.esr.org/">Earth and Space Research</a></p>
+<p>Mike currently studies the evolving interaction between the atmosphere and near-surface snow in polar regions.</p>
+<p>Mike (and ESR) is very excited to be part of the TONe-ICO project. His roles in the field include, but are not limited to: 1. designing and implementing the surface science observations supporting the TONe-ICO project 2. putting wires through holes 3. moving things from here to there and back again</p>
+</section>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/mike.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Mike</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="columns">
+<div class="column" style="width:60%;">
+<section id="even-birkeland" class="level2">
+<h2 class="anchored" data-anchor-id="even-birkeland">Even Birkeland</h2>
+<p><strong>Engineer</strong><br>
+Project Engineer at the <a href="https://www.npolar.no/">Norwegian Polar Institute</a></p>
+<p>Even supports the <a href="https://www.npolar.no/en/tone/">TONe</a> project and brings valuable local knowledge from his winterover at Troll and field experience as satellite engineer in Svalbard. His technical and logistical expertise is a crucial asset to the expedition.</p>
+</section>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/even.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Even</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="columns">
+<div class="column" style="width:60%;">
+<section id="dr.-ryan-neely-r.-neely-iii" class="level2">
+<h2 class="anchored" data-anchor-id="dr.-ryan-neely-r.-neely-iii">Dr.&nbsp;Ryan (Neely) R. Neely III</h2>
+<p><strong>Atmospheric Scientist</strong><br>
+Associate Professor at the <a href="https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii">University of Leeds</a> and <a href="https://ncas.ac.uk/">NCAS</a></p>
+<p>Neely specializes in using remote sensing technologies, such as radar and lidar, to observe precipitation, clouds, and aerial fauna in innovative ways.</p>
+<p>Neely will be leading the installation of the remote sensing instrumentation on the ICO building.</p>
+</section>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/neely.png" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Neely</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="columns">
+<div class="column" style="width:60%;">
+<section id="prof.-von-p.-walden" class="level2">
+<h2 class="anchored" data-anchor-id="prof.-von-p.-walden">Prof.&nbsp;Von P. Walden</h2>
+<p><strong>Atmospheric Scientist</strong><br>
+Professor at <a href="https://ce.wsu.edu/faculty/walden/">Washington State University</a></p>
+<p>Von is a leading authority on meteorology, climatology, and global climate change. He conducts research in Antarctica, the Arctic, and the western USA, focusing on air pollution and water resources.</p>
+<p>Von will be providing critical technical and scientific support for the field team from the United States.</p>
+</section>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/von.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Von</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<!-- Here is a breakdown of our team:
+
+Dr. Stephen (Steve) Hudson (Expedition Leader) is a Senior Researcher at the [Norwegian Polar Institute](https://www.npolar.no/) and leads work package responsible for devleoping the Integrated Cloud Observatory with [TONe](https://www.npolar.no/en/tone/). His research focuses mostly on the ways in which ice and snow interact with sunlight to affect Earth’s climate. He became fascinated by the polar regions before high school, and by university, he set his sights on spending a winter at the South Pole. In 2001, he lived this dream during graduate school, sparking a passion for fieldwork that’s taken him on multiple trips to both the Arctic and Antarctic.
+
+![Steve](steve.jpg){width=50%}
+
+Marius Bratrein (Electrical Engineer) is an Instrumentation Engineer within the [Norwegian Polar Institute](https://www.npolar.no/). Marius has a broad background in electrical engineering, instrumentation, logisitics and polar exploration.  Marius has worked hand in hand with Steve to prepare everything for the expedition to Troll.
+
+![Marius](marius.png){width=50%}
+
+Dr Michael (Mike) Town (Climate Scientist) is the Vice President of and Researcher at [Earth and Space Research] (https://www.esr.org/). Similar to Steve, Mike also dreamed of adventurous fieldwork from an early age and had these fullfilled in graduate school by wintering over at the South Pole alngside Steve in 2001. Mike current research focuses on the surface energy budget over polar snow. 
+
+![Mike](mike.jpg){width=50%}
+
+Even Birkeland (Engineer) is a Project Engineer within Norwegian Polar Institute supporting the [TONe](https://www.npolar.no/en/tone/) project. Even has previously spent a year at Troll and brings valuable local knowledge along with technical and logisitical expertise support to the project. 
+
+![Even](even.jpg){width=50%}
+
+Dr. Ryan (Neely) R. Neely (Atmospheric Scientist) is an Associate Professor at the [University of Leeds](https://environment.leeds.ac.uk/see/staff/1447/dr-ryan-neely-iii) and the UK's [National Centre for Atmospheric Science](https://ncas.ac.uk/). Neely focuses on using remote sensing technology (radar and lidar) to observe precipitation, clouds and aerial fauna in new ways. 
+
+![Neely](neely.png){width=50%}
+
+Prof. Von Walden (Atmospheric Scientist) is a professor in the [Civil Engineering department at Washington State University](https://ce.wsu.edu/faculty/walden/). Walden is a leading authority on meteorology, climatology and global climatic change and conducts research in Antarctica and the Arctic as well as being a leader air pollution and water resources in the western USA.
+
+![Von](von.jpg){width=50%} -->
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/</guid>
+  <pubDate>Sun, 19 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/penguin_team.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>A different type of train</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This might be a different type of train than you’re used to. First of all, this train travels on skis, not tracks. Second, this train will travel across the Fimbul Ice Shelf and then onto the Antarctic continent at Troll Station. It will deliver some very important cargo for the ICO. Some of the containers shown in the image contain equipment for the ICO and will soon become buildings that house the ICO. Our field team is flying to Cape Town today and is super happy (and relieved) to see this train moving!!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/containers-geir-ove-aspnes_2025-01-17-124221.jpg" class="img-fluid figure-img"></p>
+<figcaption>Cargo train ready to move out</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/</guid>
+  <pubDate>Fri, 17 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/containers-geir-ove-aspnes_2025-01-17-124221.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>First stop. Prague</title>
+  <dc:creator>Steve Hudson</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We just landed in Prague. Annoying because I’ve never been here but only the crew are getting off the plane (and it’s midnight). The business class level meal between Oslo and here was a pleasant surprise though.</p>
+<p>Our flight plan is Oslo - Prague - Abuja, Nigeria -&gt; Cape Town -&gt; Troll. We’ll stay in Cape Town for just enough time for the flight crew to rest. Then it’s down to Troll, where we land on a runway made of ice. There’s about a mile of ice below it before you hit rock. Sounds good, right?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/inflight-meal.png" class="img-fluid figure-img"></p>
+<figcaption>Nice inflight meal to Prague</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/</guid>
+  <pubDate>Fri, 17 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/inflight-meal.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>On the move…</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/on-the-move/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The TONe ICO team is “on the move”. Marius Bratrein, Steve Hudson, Ryan Neely III, and Mike Town have started their journey south. WAY SOUTH to -72 S!! The pictures below show them at the airport with their luggage. These bags contain extreme cold weather (ECW) clothing and a few scientific instruments, plus any last-minute items that will be needed. The team should arrive at Troll Station in a few days after flying from Oslo to Cape Town to Troll. That’s a long trip… But it’s good to finally be “on the move”!</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/on-the-move/on-the-move1.jpg" class="img-fluid figure-img"></p>
+<figcaption>Lots of field gear…</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/on-the-move/on-the-move2.jpg" class="img-fluid figure-img"></p>
+<figcaption>And even more field gear…</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/on-the-move/</guid>
+  <pubDate>Wed, 15 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/on-the-move/on-the-move2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Antarctica: A Special Place Worth Protecting</title>
+  <dc:creator>Michael S. Town</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/antarctica-is-a-special-place-worth-protecting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Antarctica is unlike any other place on Earth. It is a continent dedicated to science and cooperation, (relatively) free from territorial disputes or military conflicts— it remains a rare example of what humanity can achieve when we prioritize shared goals over competition. Governed by the Antarctic Treaty System, it is a symbol of what is possible when nations come together to protect a place for peaceful purposes and the pursuit of knowledge.</p>
+<p>But protecting Antarctica requires effort at every level. It’s not just about the broad, robust international agreements; it’s about the small, everyday actions too. Every scientist, technician, and visitor to the icy expanse plays a role in keeping it pristine. This includes scrubbing boots free of mud and dirt to prevent the introduction of foreign diseases or pollen that could disrupt this fragile environment.</p>
+<p>The Integrated Cloud Observatory team’s work focuses on placing atmospheric and surface observing instrumentation that will help understand the energy and mass fluxes into Antarctica. By improving our understanding of these processes, we hope to enhance predictions of sea level rise—a critical challenge in the face of climate change. One of the largest uncertainties in Antarctic ice sheet mass balance lies in the accumulation of the East Antarctic Ice Sheet. Its behavior is not just a question of regional importance but a factor that influences the entire global climate system.</p>
+<p>Antarctica is special in its own right, a stark and beautiful wilderness that inspires awe and respect. But it’s also a vital piece of the planet’s climate puzzle. To lose it to carelessness or inaction would be a loss for the world. By protecting this extraordinary place—through treaties, through science, and even through scrubbing boots—we protect not just its uniqueness but its role as a cornerstone of Earth’s climate stability.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/antarctica-is-a-special-place-worth-protecting/bootScrubbing.jpg" class="img-fluid figure-img"></p>
+<figcaption>Mike srubbing his boots free of Cascade mud.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>news</category>
+  <category>logistics</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/antarctica-is-a-special-place-worth-protecting/</guid>
+  <pubDate>Mon, 13 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/antarctica-is-a-special-place-worth-protecting/bootScrubbing.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Packing Up in the UK</title>
+  <dc:creator>Ryan R. Neely III</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/packing-up/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It’s getting close to being time to go, and the reality of the trip is starting to sink in. There’s a mix of excitement and nervousness as I juggle the last-minute details and figure out everything that needs to be done before I leave. Packing has become an art form of sorts—balancing what I’ll need against what I think I’ll need and trying not to overdo it. It’s a delicate line to walk, especially knowing that there will be no next-day deliveries if I forget something important.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/packing-up/neely-tools.JPG" class="img-fluid figure-img"></p>
+<figcaption>A shelf in Neely’s toolbox</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>news</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/packing-up/</guid>
+  <pubDate>Thu, 09 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/packing-up/neely-tools.JPG" medium="image"/>
+</item>
+<item>
+  <title>Cargo ship docked at Troll</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/ship-docked-at-ice-shelf/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The cargo ship for Troll Station has docked to the Fimbul Ice Shelf. The cargo must now be offloaded onto the ice shelf using the enormous cranes on the ship. The cargo will then be transported (dragged) across the ice shelf and onto the Antarctic continent, then uphill to Troll Station. The cargo will include three “seatainers” that include all of the equipment that will be installed as part of the Integrated Cloud Observatory. Our installation team will start their journey south next week. We’re hoping that the cargo will already be in Troll by the time they arrive. Bon voyage!!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/ship-docked-at-ice-shelf/shelf.jpg" class="img-fluid figure-img"></p>
+<figcaption>Cargo ship docked at Troll</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>news</category>
+  <category>logistics</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/ship-docked-at-ice-shelf/</guid>
+  <pubDate>Wed, 08 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/ship-docked-at-ice-shelf/shelf.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Happy New Year!</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/Troll2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>2025 will be a BIG year for the TONe Integrated Cloud Observatory. We have an international team of researchers leaving for Troll soon (mid January) to start installing instruments. We’re hoping to have a cloud radar, a depolarization lidar, and a microwave radiometer operating by the end of the austral summer season (late February). We will also have an automatic radiosonde launcher sending daily weather balloons through the atmosphere. We will also be installing iButton temperature sensors around the station; if you don’t know what these are, stayed tuned. It should be an exciting year of new data and new discoveries !!</p>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>news</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/Troll2025/</guid>
+  <pubDate>Wed, 01 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/Troll2025/Troll2025.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
+<item>
+  <title>New dashboards</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/initial-dashboards/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Have a look at the <a href="../../dashboard.html">new data dashboards</a> for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!</p>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>news</category>
+  <category>data</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/initial-dashboards/</guid>
+  <pubDate>Tue, 10 Dec 2024 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/initial-dashboards/bts.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+<item>
+  <title>The ICO blog is up!</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory.</p>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>news</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/</guid>
+  <pubDate>Tue, 03 Dec 2024 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/Troll-Station-Blog.png" medium="image" type="image/png" height="79" width="144"/>
+</item>
+</channel>
+</rss>

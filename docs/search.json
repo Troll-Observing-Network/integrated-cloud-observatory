@@ -1,7 +1,5 @@
 [
   {
-<<<<<<< HEAD
-=======
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
@@ -9,26 +7,11 @@
     "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho, Who, Who Are We?\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nThe Team\n\n\n\n\n\nJan 19, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nA different type of train\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nTransport of ICO equipment containers\n\n\n\n\n\nJan 17, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nFirst stop. Prague\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nIt’s a long way to Troll…\n\n\n\n\n\nJan 17, 2025\n\n\nSteve Hudson\n\n\n\n\n\n\n\n\n\n\n\n\nOn the move…\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nICO team travels to Troll Station\n\n\n\n\n\nJan 15, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctica: A Special Place Worth Protecting\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nMike scrubs his boots free of Cascade mud\n\n\n\n\n\nJan 13, 2025\n\n\nMichael S. Town\n\n\n\n\n\n\n\n\n\n\n\n\nPacking Up in the UK\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndeployment\n\n\n\nGetting Ready to Go\n\n\n\n\n\nJan 9, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nCargo ship docked at Troll\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nThe cargo ship has reached Troll Station\n\n\n\n\n\nJan 8, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
   },
   {
->>>>>>> e2cea9c (Initial Draft of Team Blog)
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team Members",
     "section": "",
     "text": "Team Member\nEmail\nInstitution\n\n\n\n\nSteve Hudson (Lead)\nstephen.hudson@npolar.no\nNorwegian Polar Institute\n\n\nMarius Bratrein\nMarius.Bratrein@npolar.no\nNorwegian Polar Institute\n\n\nRyan Neely III\nr.neely@leeds.ac.uk\nUniversity of Leeds\n\n\nMike Town\nmichael.town@esr.org\nEarth and Space Research\n\n\nVon P. Walden\nv.walden@wsu.edu\nWashington State University"
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Data Dashboards",
-    "section": "",
-    "text": "Weather\nBack Trajectories\n\n\nComing soon...\n  Uptime\n  Radiosondes\n  Cloud Radar\n  Cloud Lidar\n  Microwave Radiometer\n  CloudNet"
-  },
-  {
-    "objectID": "posts/the-blog-is-up/index.html",
-    "href": "posts/the-blog-is-up/index.html",
-    "title": "The ICO blog is up!",
-    "section": "",
-    "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
   },
   {
     "objectID": "posts/on-the-move/index.html",
@@ -38,32 +21,25 @@
     "text": "The TONe ICO team is “on the move”. Marius Bratrein, Steve Hudson, Ryan Neely III, and Mike Town have started their journey south. WAY SOUTH to -72 S!! The pictures below show them at the airport with their luggage. These bags contain extreme cold weather (ECW) clothing and a few scientific instruments, plus any last-minute items that will be needed. The team should arrive at Troll Station in a few days after flying from Oslo to Cape Town to Troll. That’s a long trip… But it’s good to finally be “on the move”!\n\n\n\n\n\n\n\n\n\nLots of field gear…\n\n\n\n\n\n\n\nAnd even more field gear…"
   },
   {
-    "objectID": "posts/packing-up/index.html",
-    "href": "posts/packing-up/index.html",
-    "title": "Packing Up in the UK",
+    "objectID": "posts/initial-dashboards/index.html",
+    "href": "posts/initial-dashboards/index.html",
+    "title": "New dashboards",
     "section": "",
-    "text": "It’s getting close to being time to go, and the reality of the trip is starting to sink in. There’s a mix of excitement and nervousness as I juggle the last-minute details and figure out everything that needs to be done before I leave. Packing has become an art form of sorts—balancing what I’ll need against what I think I’ll need and trying not to overdo it. It’s a delicate line to walk, especially knowing that there will be no next-day deliveries if I forget something important.\n\n\n\nA shelf in Neely’s toolbox"
+    "text": "Have a look at the new data dashboards for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!"
   },
   {
-    "objectID": "posts/Troll2025/index.html",
-    "href": "posts/Troll2025/index.html",
-    "title": "Happy New Year!",
+    "objectID": "posts/antarctica-is-a-special-place-worth-protecting/index.html",
+    "href": "posts/antarctica-is-a-special-place-worth-protecting/index.html",
+    "title": "Antarctica: A Special Place Worth Protecting",
     "section": "",
-    "text": "2025 will be a BIG year for the TONe Integrated Cloud Observatory. We have an international team of researchers leaving for Troll soon (mid January) to start installing instruments. We’re hoping to have a cloud radar, a depolarization lidar, and a microwave radiometer operating by the end of the austral summer season (late February). We will also have an automatic radiosonde launcher sending daily weather balloons through the atmosphere. We will also be installing iButton temperature sensors around the station; if you don’t know what these are, stayed tuned. It should be an exciting year of new data and new discoveries !!"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "This blog documents the on-going, research activities of the TONe ICO in Antarctica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst stop. Prague\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nIt’s a long way to Troll…\n\n\n\n\n\nJan 17, 2025\n\n\nSteve Hudson\n\n\n\n\n\n\n\n\n\n\n\n\nA different type of train\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nTransport of ICO equipment containers\n\n\n\n\n\nJan 17, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nOn the move…\n\n\n\n\n\n\ngeneral\n\n\ndeployment\n\n\n\nICO team travels to Troll Station\n\n\n\n\n\nJan 15, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctica: A Special Place Worth Protecting\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nMike scrubs his boots free of Cascade mud\n\n\n\n\n\nJan 13, 2025\n\n\nMichael S. Town\n\n\n\n\n\n\n\n\n\n\n\n\nPacking Up in the UK\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndeployment\n\n\n\nGetting Ready to Go\n\n\n\n\n\nJan 9, 2025\n\n\nRyan R. Neely III\n\n\n\n\n\n\n\n\n\n\n\n\nCargo ship docked at Troll\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\nlogistics\n\n\n\nThe cargo ship has reached Troll Station\n\n\n\n\n\nJan 8, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nHappy New Year!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nA Big Year for TONe ICO\n\n\n\n\n\nJan 1, 2025\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNew dashboards\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\ndata\n\n\n\nWeather and Back Trajectories for TONe ICO\n\n\n\n\n\nDec 10, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nThe ICO blog is up!\n\n\n\n\n\n\ngeneral\n\n\nnews\n\n\n\nInitial blog post for TONe ICO\n\n\n\n\n\nDec 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items"
+    "text": "Antarctica is unlike any other place on Earth. It is a continent dedicated to science and cooperation, (relatively) free from territorial disputes or military conflicts— it remains a rare example of what humanity can achieve when we prioritize shared goals over competition. Governed by the Antarctic Treaty System, it is a symbol of what is possible when nations come together to protect a place for peaceful purposes and the pursuit of knowledge.\nBut protecting Antarctica requires effort at every level. It’s not just about the broad, robust international agreements; it’s about the small, everyday actions too. Every scientist, technician, and visitor to the icy expanse plays a role in keeping it pristine. This includes scrubbing boots free of mud and dirt to prevent the introduction of foreign diseases or pollen that could disrupt this fragile environment.\nThe Integrated Cloud Observatory team’s work focuses on placing atmospheric and surface observing instrumentation that will help understand the energy and mass fluxes into Antarctica. By improving our understanding of these processes, we hope to enhance predictions of sea level rise—a critical challenge in the face of climate change. One of the largest uncertainties in Antarctic ice sheet mass balance lies in the accumulation of the East Antarctic Ice Sheet. Its behavior is not just a question of regional importance but a factor that influences the entire global climate system.\nAntarctica is special in its own right, a stark and beautiful wilderness that inspires awe and respect. But it’s also a vital piece of the planet’s climate puzzle. To lose it to carelessness or inaction would be a loss for the world. By protecting this extraordinary place—through treaties, through science, and even through scrubbing boots—we protect not just its uniqueness but its role as a cornerstone of Earth’s climate stability.\n\n\n\nMike srubbing his boots free of Cascade mud."
   },
   {
     "objectID": "posts/who-are-we/index.html#dr.-stephen-steve-hudson",
     "href": "posts/who-are-we/index.html#dr.-stephen-steve-hudson",
     "title": "Who, Who, Who Are We?",
     "section": "Dr. Stephen (Steve) Hudson",
-    "text": "Dr. Stephen (Steve) Hudson\nExpedition Leader\nSenior Researcher at the Norwegian Polar Institute\nDr. Hudson leads the work package responsible for developing the Integrated Cloud Observatory with TONe. His research focuses on how ice and snow interact with sunlight to affect Earth’s climate. Fascinated by polar regions since high school, Steve spent a winter at the South Pole in 2001 during graduate school. This experience sparked a passion for fieldwork, leading to multiple Arctic and Antarctic expeditions."
+    "text": "Dr. Stephen (Steve) Hudson\nExpedition Leader\nSenior Researcher at the Norwegian Polar Institute\nSteve is a research scientist at the Norwegian Polar Institute, specializing in atmospheric science, light, and heat budgets in polar regions. He studied atmospheric science from his undergraduate degree at Cornell University through his PhD at the University of Washington, focusing on the heat budget and light interactions over Antarctica. Since moving to Norway in 2008, Steve has contributed to projects on Arctic sea ice, Svalbard glaciers, and weather and climate dynamics around Troll Station, Antarctica.\nIn the TONe project, Steve is leading the work package developing the Integrated Cloud Observatory. He brings expertise in the relationship between clouds and the accumulation or melt of snow in polar regions while collaborating closely with colleagues for broader expertise.\nOutside of his work, Steve enjoys scuba diving and traveling, often combining the two in his adventures."
   },
   {
     "objectID": "posts/who-are-we/index.html#marius-bratrein",
@@ -77,28 +53,28 @@
     "href": "posts/who-are-we/index.html#dr.-michael-mike-town",
     "title": "Who, Who, Who Are We?",
     "section": "Dr. Michael (Mike) Town",
-    "text": "Dr. Michael (Mike) Town\nClimate Scientist\nVice President and Researcher at Earth and Space Research\nLike Steve, Mike dreamed of adventurous fieldwork from an early age and fulfilled this dream in graduate school, wintering at the South Pole alongside Steve in 2001. His current research focuses on the surface energy budget over polar snow."
+    "text": "Dr. Michael (Mike) Town\nAtmospheric Scientist and Glaciologist\nVice President and Research Scientist at Earth and Space Research\nMike currently studies the evolving interaction between the atmosphere and near-surface snow in polar regions.\nMike (and ESR) is very excited to be part of the TONe-ICO project. His roles in the field include, but are not limited to: 1. designing and implementing the surface science observations supporting the TONe-ICO project 2. putting wires through holes 3. moving things from here to there and back again"
   },
   {
     "objectID": "posts/who-are-we/index.html#even-birkeland",
     "href": "posts/who-are-we/index.html#even-birkeland",
     "title": "Who, Who, Who Are We?",
     "section": "Even Birkeland",
-    "text": "Even Birkeland\nEngineer\nProject Engineer at the Norwegian Polar Institute\nEven supports the TONe project and brings valuable local knowledge from his year at Troll. His technical and logistical expertise is a crucial asset to the expedition."
+    "text": "Even Birkeland\nEngineer\nProject Engineer at the Norwegian Polar Institute\nEven supports the TONe project and brings valuable local knowledge from his winterover at Troll and field experience as satellite engineer in Svalbard. His technical and logistical expertise is a crucial asset to the expedition."
   },
   {
-    "objectID": "posts/who-are-we/index.html#dr.-ryan-neely-r.-neely",
-    "href": "posts/who-are-we/index.html#dr.-ryan-neely-r.-neely",
+    "objectID": "posts/who-are-we/index.html#dr.-ryan-neely-r.-neely-iii",
+    "href": "posts/who-are-we/index.html#dr.-ryan-neely-r.-neely-iii",
     "title": "Who, Who, Who Are We?",
-    "section": "Dr. Ryan (Neely) R. Neely",
-    "text": "Dr. Ryan (Neely) R. Neely\nAtmospheric Scientist\nAssociate Professor at the University of Leeds and NCAS\nDr. Neely specializes in using remote sensing technologies, such as radar and lidar, to observe precipitation, clouds, and aerial fauna in innovative ways."
+    "section": "Dr. Ryan (Neely) R. Neely III",
+    "text": "Dr. Ryan (Neely) R. Neely III\nAtmospheric Scientist\nAssociate Professor at the University of Leeds and NCAS\nNeely specializes in using remote sensing technologies, such as radar and lidar, to observe precipitation, clouds, and aerial fauna in innovative ways.\nNeely will be leading the installation of the remote sensing instrumentation on the ICO building."
   },
   {
-    "objectID": "posts/who-are-we/index.html#prof.-von-walden",
-    "href": "posts/who-are-we/index.html#prof.-von-walden",
+    "objectID": "posts/who-are-we/index.html#prof.-von-p.-walden",
+    "href": "posts/who-are-we/index.html#prof.-von-p.-walden",
     "title": "Who, Who, Who Are We?",
-    "section": "Prof. Von Walden",
-    "text": "Prof. Von Walden\nAtmospheric Scientist\nProfessor at Washington State University\nProf. Walden is a leading authority on meteorology, climatology, and global climate change. He conducts research in Antarctica, the Arctic, and the western USA, focusing on air pollution and water resources."
+    "section": "Prof. Von P. Walden",
+    "text": "Prof. Von P. Walden\nAtmospheric Scientist\nProfessor at Washington State University\nVon is a leading authority on meteorology, climatology, and global climate change. He conducts research in Antarctica, the Arctic, and the western USA, focusing on air pollution and water resources.\nVon will be providing critical technical and scientific support for the field team from the United States."
   },
   {
     "objectID": "posts/Troll2025/index.html",
@@ -115,8 +91,6 @@
     "text": "This might be a different type of train than you’re used to. First of all, this train travels on skis, not tracks. Second, this train will travel across the Fimbul Ice Shelf and then onto the Antarctic continent at Troll Station. It will deliver some very important cargo for the ICO. Some of the containers shown in the image contain equipment for the ICO and will soon become buildings that house the ICO. Our field team is flying to Cape Town today and is super happy (and relieved) to see this train moving!!\n\n\n\nCargo train ready to move out"
   },
   {
-<<<<<<< HEAD
-=======
     "objectID": "posts/first-stop-Prague/index.html",
     "href": "posts/first-stop-Prague/index.html",
     "title": "First stop. Prague",
@@ -131,7 +105,6 @@
     "text": "It’s getting close to being time to go, and the reality of the trip is starting to sink in. There’s a mix of excitement and nervousness as I juggle the last-minute details and figure out everything that needs to be done before I leave. Packing has become an art form of sorts—balancing what I’ll need against what I think I’ll need and trying not to overdo it. It’s a delicate line to walk, especially knowing that there will be no next-day deliveries if I forget something important.\n\n\n\nA shelf in Neely’s toolbox"
   },
   {
->>>>>>> e2cea9c (Initial Draft of Team Blog)
     "objectID": "posts/ship-docked-at-ice-shelf/index.html",
     "href": "posts/ship-docked-at-ice-shelf/index.html",
     "title": "Cargo ship docked at Troll",
@@ -139,18 +112,18 @@
     "text": "The cargo ship for Troll Station has docked to the Fimbul Ice Shelf. The cargo must now be offloaded onto the ice shelf using the enormous cranes on the ship. The cargo will then be transported (dragged) across the ice shelf and onto the Antarctic continent, then uphill to Troll Station. The cargo will include three “seatainers” that include all of the equipment that will be installed as part of the Integrated Cloud Observatory. Our installation team will start their journey south next week. We’re hoping that the cargo will already be in Troll by the time they arrive. Bon voyage!!\n\n\n\nCargo ship docked at Troll"
   },
   {
-    "objectID": "posts/initial-dashboards/index.html",
-    "href": "posts/initial-dashboards/index.html",
-    "title": "New dashboards",
+    "objectID": "posts/the-blog-is-up/index.html",
+    "href": "posts/the-blog-is-up/index.html",
+    "title": "The ICO blog is up!",
     "section": "",
-    "text": "Have a look at the new data dashboards for TONe ICO. There will be a lot more data soon once the deployment starts at Troll in January 2025!!"
+    "text": "This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory."
   },
   {
-    "objectID": "posts/antarctica-is-a-special-place-worth-protecting/index.html",
-    "href": "posts/antarctica-is-a-special-place-worth-protecting/index.html",
-    "title": "Antarctica: A Special Place Worth Protecting",
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Data Dashboards",
     "section": "",
-    "text": "Antarctica is unlike any other place on Earth. It is a continent dedicated to science and cooperation, (relatively) free from territorial disputes or military conflicts— it remains a rare example of what humanity can achieve when we prioritize shared goals over competition. Governed by the Antarctic Treaty System, it is a symbol of what is possible when nations come together to protect a place for peaceful purposes and the pursuit of knowledge.\nBut protecting Antarctica requires effort at every level. It’s not just about the broad, robust international agreements; it’s about the small, everyday actions too. Every scientist, technician, and visitor to the icy expanse plays a role in keeping it pristine. This includes scrubbing boots free of mud and dirt to prevent the introduction of foreign diseases or pollen that could disrupt this fragile environment.\nThe Integrated Cloud Observatory team’s work focuses on placing atmospheric and surface observing instrumentation that will help understand the energy and mass fluxes into Antarctica. By improving our understanding of these processes, we hope to enhance predictions of sea level rise—a critical challenge in the face of climate change. One of the largest uncertainties in Antarctic ice sheet mass balance lies in the accumulation of the East Antarctic Ice Sheet. Its behavior is not just a question of regional importance but a factor that influences the entire global climate system.\nAntarctica is special in its own right, a stark and beautiful wilderness that inspires awe and respect. But it’s also a vital piece of the planet’s climate puzzle. To lose it to carelessness or inaction would be a loss for the world. By protecting this extraordinary place—through treaties, through science, and even through scrubbing boots—we protect not just its uniqueness but its role as a cornerstone of Earth’s climate stability.\n\n\n\nMike srubbing his boots free of Cascade mud."
+    "text": "Weather\nBack Trajectories\n\n\nComing soon...\n  Uptime\n  Radiosondes\n  Cloud Radar\n  Cloud Lidar\n  Microwave Radiometer\n  CloudNet"
   },
   {
     "objectID": "index.html",
