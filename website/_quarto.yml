@@ -3,6 +3,7 @@ project:
   output-dir: ../docs
 
 website:
+  site-url: https://troll-observing-network.github.io/integrated-cloud-observatory/
   title: "TONe - ICO"
 #  sidebar:
 #    contents:
