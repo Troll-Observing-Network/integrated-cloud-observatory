@@ -10,7 +10,42 @@
 <atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Our Home Away from Home</title>
+  <dc:creator>Ryan R. Neely III</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/home-away-from-home/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>For the next 37 days, Troll is our home—our entire world. Everything we need to live and work is basically within the edges of this picture. There’s no way to get anything else until the next flight arrives in mid-February, so we make the most of what we have here.</p>
+<p>We all sleep in the long, blue building perched partway up the hill. It’s constructed from containers, cleverly partitioned into rooms. It reminds me alot of being in college. I even had my name on a whiteboard welcoming me on the outside of my door.</p>
+<p>All meals and station activities take place in the bright red building, the central hub of the station. It’s also the only spot where you’ll find a proper bathroom.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/home-away-from-home/station_wide.jpeg" class="img-fluid figure-img"></p>
+<figcaption>An overview of the main living and working areas at Troll.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/home-away-from-home/neelys_room.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Neely’s room</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>news</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/home-away-from-home/</guid>
+  <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/home-away-from-home/station_sign.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Arrived</title>
   <dc:creator>Ryan R. Neely III</dc:creator>
