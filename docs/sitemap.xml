@@ -1,59 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/team.html</loc>
-    <lastmod>2025-01-13T04:41:15.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/dashboard.html</loc>
-    <lastmod>2025-01-13T04:41:15.709Z</lastmod>
-  </url>
-  <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/antarctica-is-a-special-place-worth-protecting/index.html</loc>
-    <lastmod>2025-01-14T04:11:48.969Z</lastmod>
-  </url>
-  <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/initial-dashboards/index.html</loc>
-    <lastmod>2025-01-13T04:46:46.577Z</lastmod>
-  </url>
-  <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/ship-docked-at-ice-shelf/index.html</loc>
-    <lastmod>2025-01-13T04:46:46.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/index.html</loc>
-    <lastmod>2025-01-18T14:59:41.437Z</lastmod>
-  </url>
-  <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/index.html</loc>
-    <lastmod>2025-01-18T14:59:41.437Z</lastmod>
-  </url>
-  <url>
     <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/blog.html</loc>
-    <lastmod>2025-01-15T07:47:20.682Z</lastmod>
+    <lastmod>2025-01-16T16:00:03.945Z</lastmod>
   </url>
   <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/Troll2025/index.html</loc>
-    <lastmod>2025-01-13T04:46:46.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/packing-up/index.html</loc>
-    <lastmod>2025-01-13T04:46:46.577Z</lastmod>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/team.html</loc>
+    <lastmod>2025-01-09T21:06:36.657Z</lastmod>
   </url>
   <url>
     <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/on-the-move/index.html</loc>
-    <lastmod>2025-01-15T22:16:07.553Z</lastmod>
+    <lastmod>2025-01-16T16:00:03.975Z</lastmod>
   </url>
   <url>
-    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/index.html</loc>
-    <lastmod>2025-01-13T04:46:46.586Z</lastmod>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/initial-dashboards/index.html</loc>
+    <lastmod>2025-01-09T20:01:00.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/ship-docked-at-ice-shelf/index.html</loc>
+    <lastmod>2025-01-09T20:01:00.819Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/packing-up/index.html</loc>
+    <lastmod>2025-01-09T21:16:10.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/index.html</loc>
+    <lastmod>2025-01-19T12:43:03.195Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/index.html</loc>
+    <lastmod>2025-01-19T12:43:03.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/Troll2025/index.html</loc>
+    <lastmod>2025-01-09T20:01:00.804Z</lastmod>
   </url>
   <url>
     <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/index.html</loc>
-    <lastmod>2025-01-20T15:04:26.598Z</lastmod>
+    <lastmod>2025-01-20T04:40:09.497Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/antarctica-is-a-special-place-worth-protecting/index.html</loc>
+    <lastmod>2025-01-16T16:00:03.975Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/arrived/index.html</loc>
+    <lastmod>2025-01-22T17:16:44.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/index.html</loc>
+    <lastmod>2025-01-09T20:01:00.842Z</lastmod>
+  </url>
+  <url>
+    <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/dashboard.html</loc>
+    <lastmod>2025-01-09T20:01:00.763Z</lastmod>
   </url>
   <url>
     <loc>https://troll-observing-network.github.io/integrated-cloud-observatory/index.html</loc>
-    <lastmod>2025-01-13T04:41:15.710Z</lastmod>
+    <lastmod>2025-01-09T20:01:00.775Z</lastmod>
   </url>
 </urlset>

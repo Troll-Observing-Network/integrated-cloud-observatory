@@ -2,9 +2,10 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/arrived/index.html",
       "/posts/who-are-we/index.html",
-      "/posts/first-stop-Prague/index.html",
       "/posts/a-different-type-of-train/index.html",
+      "/posts/first-stop-Prague/index.html",
       "/posts/on-the-move/index.html",
       "/posts/antarctica-is-a-special-place-worth-protecting/index.html",
       "/posts/packing-up/index.html",
