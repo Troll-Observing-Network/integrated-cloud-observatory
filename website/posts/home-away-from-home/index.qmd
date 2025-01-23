@@ -1,0 +1,22 @@
+---
+title: "Our Home Away from Home"
+description: "Troll"
+author: "Ryan R. Neely III"
+date: "1/21/2025"
+categories:
+  - general
+  - news
+  - deployment
+image: station_sign.jpeg
+---
+
+For the next 37 days, Troll is our home—our entire world. Everything we need to live and work is basically within the edges of this picture. There’s no way to get anything else until the next flight arrives in mid-February, so we make the most of what we have here.
+
+We all sleep in the long, blue building perched partway up the hill. It's constructed from containers, cleverly partitioned into rooms. It reminds me alot of being in college. I even had my name on a whiteboard welcoming me on the outside of my door.
+
+All meals and station activities take place in the bright red building, the central hub of the station. It’s also the only spot where you’ll find a proper bathroom.
+
+
+![An overview of the main living and working areas at Troll.](station_wide.jpeg)
+
+![Neely's room](neelys_room.jpeg)

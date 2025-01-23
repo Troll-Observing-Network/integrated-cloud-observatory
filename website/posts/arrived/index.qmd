@@ -1,0 +1,28 @@
+---
+title: "Arrived"
+description: "We Are Finally Here"
+author: "Ryan R. Neely III"
+date: "1/20/2025"
+categories:
+  - general
+  - news
+  - deployment
+image: plane.jpeg
+---
+
+After years of planning and a five-and-a-half-hour flight from Cape Town, we finally touched down at Troll Airfield at 3:30 UTC (local time here). The experience was nothing short of surreal.
+
+The Boeing 737 glided smoothly onto the ice sheet as if it were landing on a conventional runway anywhere else. From the comfort of a "normal" plane seat, I gazed out the window at the vast, otherworldly expanse of East Antarctica, a sharp contrast with being on a plane I would typically take from Leeds to Oslo.
+
+It was a moment where the extraordinary felt almost ordinary—a juxtaposition that will stay with me for a lifetime.
+
+After being ushered away from the plane, we were greeted by friends old and new in the "Arrivals" area, doubling up as summer barbeque. I promptly grabbed a sausage and toasted bun from the grill before being whisked off to the station on a tracked personnel carrier.
+
+![Our transport south sitting at the gate at Troll Airfield.](plane.jpeg)
+
+![The "Arrivals" area.](arrivals_area.jpeg)
+
+![A barbeque at the airport.](hotdogs.jpeg)
+
+![A TL6 (a.k.a. a tracked personnel carrier)](TL6.jpeg)
+
