@@ -10,7 +10,44 @@
 <atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Sat, 25 Jan 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jan 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>One big lift</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/one-big-lift/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>One big lift for TONe ICO, and one big lift for science at Troll! The first container was lifted onto the TONe ICO platform today. This container will house the automatic radiosonde launcher. Radiosonde are “weather balloons” that ICO will launch every day. Radiosondes (or just “sondes”) provide valuable information about how the atmosphere is changing. The sondes will measure temperature, pressure, and humidity, as well as wind speed and direction, as they fly high up to 15-20 miles over the research station. These data will help us to understand the different atmospheric conditions that occur, like clear skies, storms, and windy periods. The next container to be lifted will house a gas generator that will create hydrogen to fill the weather balloons. Then the final container will house the different TONe instruments. More on that soon…</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/one-big-lift/ICOsonde2.jpeg" class="img-fluid figure-img"></p>
+<figcaption>One big lift!</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/one-big-lift/ICOsonde3.jpeg" class="img-fluid figure-img"></p>
+<figcaption>The front steps to the ICO Terrace</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/one-big-lift/ICOsonde4.jpeg" class="img-fluid figure-img"></p>
+<figcaption>First access to the roof</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>science</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/one-big-lift/</guid>
+  <pubDate>Sun, 26 Jan 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/one-big-lift/ICOsonde1.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Microclimates are full of surprises</title>
   <dc:creator>Michael S. Town</dc:creator>
