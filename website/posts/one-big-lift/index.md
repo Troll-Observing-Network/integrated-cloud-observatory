@@ -15,3 +15,5 @@ One big lift for TONe ICO, and one big lift for science at Troll! The first cont
 ![The front steps to the ICO Terrace](ICOsonde3.jpeg)
 
 ![First access to the roof](ICOsonde4.jpeg)
+
+All photos by Marius Bratrein, Norwegian Polar Institute.
