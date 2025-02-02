@@ -7,7 +7,7 @@ categories:
   - news
   - data
   - science
-image: the-crew.png
+image: the-crew.jpeg
 ---
 
 It's happening! Data is flowing! After only a couple weeks at Troll Station, our deployment crew has overseen: 
