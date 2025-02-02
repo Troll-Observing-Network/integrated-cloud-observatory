@@ -2,14 +2,15 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/DATA/index.html",
       "/posts/put-this-on-your-radar/index.html",
       "/posts/one-big-lift/index.html",
       "/posts/microclimates-are-full-of-surprises/index.html",
       "/posts/home-away-from-home/index.html",
       "/posts/arrived/index.html",
       "/posts/who-are-we/index.html",
-      "/posts/first-stop-Prague/index.html",
       "/posts/a-different-type-of-train/index.html",
+      "/posts/first-stop-Prague/index.html",
       "/posts/on-the-move/index.html",
       "/posts/antarctica-is-a-special-place-worth-protecting/index.html",
       "/posts/packing-up/index.html",
