@@ -10,7 +10,33 @@
 <atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Sun, 02 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Radar on the move</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/radar-on-the-move/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The cloud radar has been installed on the roof of the ICO-Hub building! In addition, it has been connected to the computer and is scanning. This is a huge step forward in getting the Integrated Cloud Observatory at full capacity, because the cloud radar is our most complicated instrument. Our next challenge is for the science team to decide on a scanning schedule; there are so many possibility with this radar!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><video src="scanning-radar.mp4" class="img-fluid" controls=""><a href="scanning-radar.mp4">Video</a></video></p>
+<figcaption>It’s scanning! Wait for it at about 19 seconds into the video… :-)</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>science</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/radar-on-the-move/</guid>
+  <pubDate>Mon, 03 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/radar-on-the-move/radar-installed.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Data is flowing !!</title>
   <dc:creator>Von P. Walden</dc:creator>
