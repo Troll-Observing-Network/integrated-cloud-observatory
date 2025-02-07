@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # ....Calculate the back trajectories for yesterday
-cd /home/vonw/work/vaults/software/Troll-Observing-Network/integrated-cloud-observatory/data/back-trajectories
+cd /home/vonw/work/software/Troll-Observing-Network/integrated-cloud-observatory/data/back-trajectories
 /home/vonw/anaconda3/envs/work/bin/python create_troll_trajectories.py
 /home/vonw/anaconda3/envs/work/bin/python troll_trajectory_plots.py
 cp docs/index.html ../../website/data/back-trajectories/.
