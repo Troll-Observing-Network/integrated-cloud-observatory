@@ -10,7 +10,38 @@
 <atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 03 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>It’s a SNOW DAY!</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/snow-science/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Schools occasionally have a “snow day”, when school is cancelled because of a big snow storm. But our research team recently had a different type of “snow day”. They went on a mini-expedition away from Troll Station to “play” in the snow. Specifically, they dug a pit to analyze the structure of the near-surface snow. Snow pit analysis is really important for the type of science that we’re doing at Troll. The stratigraphy (layering) of the top 1 meter of snow can impact how heat and light are transmitted in and out of the snow. So, researchers dig a pit and then sit in it for a couple of hours making measurements of density, conductivity, liquid water content and more. Luckily, it was nice and sunny for this “snow day”!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/snow-science/snow-science-1.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Making measurements in the snow pit</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/snow-science/snow-science-2.jpeg" class="img-fluid figure-img"></p>
+<figcaption>A good well done!!</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>science</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/snow-science/</guid>
+  <pubDate>Thu, 06 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/snow-science/snow-science-3.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Radar on the move</title>
   <dc:creator>Von P. Walden</dc:creator>
