@@ -7,7 +7,7 @@ cd /home/vonw/work/software/Troll-Observing-Network/integrated-cloud-observatory
 cp docs/index.html ../../website/data/back-trajectories/.
 
 # ....Render the website with changes
-cd /home/vonw/work/vaults/software/Troll-Observing-Network/integrated-cloud-observatory/
+cd /home/vonw/work/software/Troll-Observing-Network/integrated-cloud-observatory/
 quarto render website
 
 # ....Push changes to GitHub (and GitHub Pages)
