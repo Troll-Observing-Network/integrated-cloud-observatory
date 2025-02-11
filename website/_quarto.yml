@@ -25,6 +25,8 @@ website:
       - href: team.qmd
         text: Team
 
+posts_per_page: 5
+
 format:
   html:
     theme: 
