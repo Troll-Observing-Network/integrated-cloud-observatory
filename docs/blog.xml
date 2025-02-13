@@ -10,7 +10,32 @@
 <atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 06 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Up, Up and Away!!</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/up-up-and-away/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>As the old song by the 5th Dimension goes, “Up, up and away. My beautiful, my beautiful balloon”. That is how the ICO researchers feel about this balloon. Weather balloons (also called “radiosondes”) are essential for our research. Once they are launched, they transmit valuable information (via radio frequencies) back to Troll Station. The data are temperature, pressure, humidity, wind speed and wind direction as a function of height. These data allow our team to characterize the atmospheric conditions during the balloon flight, which is very important for understanding a lot of science, including cloud formation, katabatic winds, and precipitation. The really cool thing about the ICO setup is that this is an automatic radiosonde launcher. Inside this container, the weather balloons are automatically filled with hydrogen gas, which make them very bouyant. The sonde (instrument making the measurements) is attached to the balloon. So when the hatch slides out of the way, the balloon and sonde quickly fly out of the container, and “up, up and away” goes our “beautiful balloon”!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><video src="UpUpAndAway.mp4" class="img-fluid" controls=""><a href="UpUpAndAway.mp4">Video</a></video></p>
+<figcaption>There goes our beautiful balloon…</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>science</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/up-up-and-away/</guid>
+  <pubDate>Wed, 12 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/up-up-and-away/UpUpAndAway.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>It’s a SNOW DAY!</title>
   <dc:creator>Von P. Walden</dc:creator>
