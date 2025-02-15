@@ -10,7 +10,39 @@
 <atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 12 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data from weather balloon</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/weather-balloon-data/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/weather-balloon-data/sonde-data1.png" class="img-fluid figure-img"></p>
+<figcaption>We have radiosonde data!</figcaption>
+</figure>
+</div>
+<p>This is a follow-up blog post to <a href="../../posts/up-up-and-away/index.html">Up, Up and Away</a> about our weather balloon launcher. The red line shows the temperature as a function of altitude. Note that the weather balloon reached a maximum altitude of about 30 km! That’s high into the stratosphere! The minimum temperature was -60 C, which was reached at 10 km. This level of the atmosphere is called the “tropopause”, which is the boundary between the troposphere (0 to 10 km) and the stratosphere (10 to 30 km). Also note the blue line which is the relative humidity (RH). Wow, it is dry in the stratosphere above 15 km. The middle panel shows the wind speed (green line) and wind direction (orange line). The maximum winds of almost 30 m/s occurred at 7 km from the west (nearly 270 degrees). The upper left panel shows that the balloon drifted from Troll to the southeast. As stated before, these data are essential for our science. Thanks Troll Team for getting the balloon launcher up and running.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/weather-balloon-data/sonde-data2.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Very cool figure showing where the weather balloon flew! (This image was created by <a href="https://www.meteomodem.com">MeteoModem</a>, the company that supplies our radiosondes.)</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>science</category>
+  <category>data</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/weather-balloon-data/</guid>
+  <pubDate>Fri, 14 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/weather-balloon-data/sonde-data1.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Up, Up and Away!!</title>
   <dc:creator>Von P. Walden</dc:creator>
@@ -485,6 +517,32 @@ Prof. Von Walden (Atmospheric Scientist) is a professor in the [Civil Engineerin
   <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/who-are-we/penguin_team.webp" medium="image" type="image/webp"/>
 </item>
 <item>
+  <title>A different type of train</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This might be a different type of train than you’re used to. First of all, this train travels on skis, not tracks. Second, this train will travel across the Fimbul Ice Shelf and then onto the Antarctic continent at Troll Station. It will deliver some very important cargo for the ICO. Some of the containers shown in the image contain equipment for the ICO and will soon become buildings that house the ICO. Our field team is flying to Cape Town today and is super happy (and relieved) to see this train moving!!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/containers-geir-ove-aspnes_2025-01-17-124221.jpg" class="img-fluid figure-img"></p>
+<figcaption>Cargo train ready to move out</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <category>deployment</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/</guid>
+  <pubDate>Fri, 17 Jan 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/containers-geir-ove-aspnes_2025-01-17-124221.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>First stop. Prague</title>
   <dc:creator>Steve Hudson</dc:creator>
   <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/</link>
@@ -510,32 +568,6 @@ Prof. Von Walden (Atmospheric Scientist) is a professor in the [Civil Engineerin
   <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/</guid>
   <pubDate>Fri, 17 Jan 2025 08:00:00 GMT</pubDate>
   <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/first-stop-Prague/inflight-meal.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>A different type of train</title>
-  <dc:creator>Von P. Walden</dc:creator>
-  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This might be a different type of train than you’re used to. First of all, this train travels on skis, not tracks. Second, this train will travel across the Fimbul Ice Shelf and then onto the Antarctic continent at Troll Station. It will deliver some very important cargo for the ICO. Some of the containers shown in the image contain equipment for the ICO and will soon become buildings that house the ICO. Our field team is flying to Cape Town today and is super happy (and relieved) to see this train moving!!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/containers-geir-ove-aspnes_2025-01-17-124221.jpg" class="img-fluid figure-img"></p>
-<figcaption>Cargo train ready to move out</figcaption>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>general</category>
-  <category>deployment</category>
-  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/</guid>
-  <pubDate>Fri, 17 Jan 2025 08:00:00 GMT</pubDate>
-  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/a-different-type-of-train/containers-geir-ove-aspnes_2025-01-17-124221.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>On the move…</title>
