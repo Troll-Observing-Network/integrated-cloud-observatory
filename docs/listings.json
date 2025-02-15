@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/beautiful-place/index.html",
       "/posts/weather-balloon-data/index.html",
       "/posts/up-up-and-away/index.html",
       "/posts/snow-science/index.html",

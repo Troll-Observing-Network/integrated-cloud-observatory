@@ -10,7 +10,44 @@
 <atom:link href="https://troll-observing-network.github.io/integrated-cloud-observatory/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Fri, 14 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Troll is beautiful…</title>
+  <dc:creator>Von P. Walden</dc:creator>
+  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/beautiful-place/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The scenery is beautiful near Troll Station. Here are some incredible images taken by Ryan Neely III on his hike today. These are a reminder of how lucky we are as researchers to be studying this amazing place.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/beautiful-place/beautiful-place1.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Ridgeline</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/beautiful-place/beautiful-place3.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Low sun over snow and ice</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/beautiful-place/beautiful-place4.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Rock and ice</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>recreation</category>
+  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/beautiful-place/</guid>
+  <pubDate>Sat, 15 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/beautiful-place/beautiful-place2.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Data from weather balloon</title>
   <dc:creator>Von P. Walden</dc:creator>
@@ -736,26 +773,6 @@ Prof. Von Walden (Atmospheric Scientist) is a professor in the [Civil Engineerin
   <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/initial-dashboards/</guid>
   <pubDate>Tue, 10 Dec 2024 08:00:00 GMT</pubDate>
   <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/initial-dashboards/bts.png" medium="image" type="image/png" height="73" width="144"/>
-</item>
-<item>
-  <title>The ICO blog is up!</title>
-  <dc:creator>Von P. Walden</dc:creator>
-  <link>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This is the initial blog post for the TONe ICO research team. Stay tuned for our upcoming field season at Troll in January and February 2025, when we’ll be installing a bunch of new equipment for the Integrated Cloud Observatory.</p>
-
-
-
- ]]></description>
-  <category>general</category>
-  <category>news</category>
-  <guid>https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/</guid>
-  <pubDate>Tue, 03 Dec 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://troll-observing-network.github.io/integrated-cloud-observatory/posts/the-blog-is-up/Troll-Station-Blog.png" medium="image" type="image/png" height="79" width="144"/>
 </item>
 </channel>
 </rss>
