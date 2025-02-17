@@ -1,0 +1,100 @@
+---
+title: "A day in the life of a Troll"
+description: "As illustrated with iButtons..."
+author: "Michael Town"
+date: "2/16/2025"
+categories:
+  - "station life"
+image: TrollTemperatureStoriesAll.jpg
+---
+
+One of the reasons things are going so well thus far in the TONe-ICO project, in fact the main reason, is the support from the talented station staff to help our program happen. Troll Station is an inherently interdependent community, which is one of the best aspects of working here. Nevertheless, it can be easy to become hyper focused on one's own diverse set of responsibilities and lose sight of this. To highlight all the effort necessary to simply run the station we monitored six volunteers with autonomous temperature sensors that are normally used to understand the microclimates around Troll Station for a day. The figure below is a unique illustration of the diverse responsibilities and tasks here at Troll. Read further for the stories of six Trolls going about their work as told by their temperatures and in their words. 
+
+![Observational NOTE: It matters where our subjects kept their temperature sensor. They were told not to swallow them, and I think they followed that instruction.](TrollTemperatureStoriesAll.jpg)
+
+
+## **Ina: Polarsykepleier** (Polar Nurse)
+
+![Temperature sensor location:  Bukselomme, Trousers pocket](Ina_20250204.jpg)
+
+Polarsykepleierens Søken: En Dag et Troll
+
+På kanten av den frosne verden, der himmelen møter den endeløse isen, legger en skikkelse ut på en edel søken. Ikke en kriger, ikke en trollmann, men en polarsykepleier – en vokter av helse og orden i det kontrollerte kaoset på isens yttergrense.
+
+Morgenlyset strakte seg over Troll forskningsstasjon, og på sykestua startet dagen. Administrative oppgaver avslørte et presserende behov – førstehjelpsutstyr var modent for utskifting. Bandasjer gulnet, antiseptiske midler var utløpt, og utdatert utstyr bar spor av tidligere ekspedisjoner. Beslutningen ble tatt: ut med det gamle, inn med det nye.
+
+Søket begynte i lagerrom og kontainere. Krykker eldgamle som isen, sårbandasjer fra en annen tid, kirurgiske instrumenter bedre egnet for et museum enn for en moderne legevakt. Polarsykepleieren og stasjonens lege tok fatt på oppgaven.
+
+Før middagstid, med en solid vogn, inspiserte de hvert hjørne av stasjonen. Laboratorier, mekaniske huler og skjulte rom – intet førstehjelpsutstyr ble latt ukontrollert. Øyeskyllestasjoner ble etterfylt, AED-er undersøkt, forsyninger hentet.
+
+Dagen bød også på et uventet høydepunkt – et besøk til TONE-observatoriet, hvor skarpe hoder løste himmelens mysterier. Blant teleskoper og data undret de seg over alt som finnes innenfor disse veggene – en påminnelse om den grenseløse nysgjerrigheten som driver menneskelig utforskertrang, selv i de tøffeste miljøer.
+
+Lunsj kl. 11, kaffe kl. 15 – ritualer like hellige som selve isen. Ved dagens slutt var utstyret (nesten) fornyet.
+
+Mens vinden hvisket over de frosne slettene, snudde polarsykepleieren seg og gikk inn igjen – klar for hva morgendagen måtte bringe.
+
+*At the edge of the frozen world, where the sky meets the endless ice, a lone figure embarks on a noble quest. Not a warrior nor a sorcerer, but a polarsykepleier - guardian of health and order amidst the controlled chaos of Antarctic life.*
+
+*The morning light stretched over Troll research station, and in the infirmary, the day’s mission began. Administrative duties revealed a pressing need - first aid supplies had grown weary with age. Bandages yellowed, antiseptics expired, and outdated equipment whispered of past expeditions. The decision was made - out with the old, in with the new.*
+
+*Through storage rooms and supply caches, the search commenced. Splints as ancient as the ice, wound dressings from another era, and surgical tools better suited for a museum than modern emergency care. The  polarsykepleier and the station’s doctor set forth on their next task.*
+
+*By midday, armed with a sturdy trolley, they inspected every corner of the station. Laboratories, mechanical dens, and hidden survival caches - no first-aid kit was left unchecked. Eyewash stations were replenished, AEDs examined, and supplies restored.*
+
+*The day also brought an unexpected highlight - an intriguing visit to the TONE observatory, where the brightest minds unraveled the mysteries of the sky. Among telescopes and data streams, they marveled at the depth of knowledge contained within those walls, a reminder of the boundless curiosity that drives human exploration even in the harshest of environments.*
+
+*Lunch at 11, coffee at 15 - rituals as sacred as the ice itself. By day’s end, the inventory stood (almost) renewed. 
+As the wind whispered across the frozen plains, the polarsykepleier turned, stepping back inside - ready for whatever tales tomorrow would bring 💁‍♀️*
+
+## **Kjetil: Stasjon Brannsjef** (Station Fire Chief)
+
+![Temperature sensor location:  Exterior Pocket](Kjetil_20250204.jpg)
+
+Hei. Jeg dro ut på TAF (Troll Air Field) fra morgenen, det var arbeid rundt flystripen før lunch og det var mye vind og dårlig sikt. Etter lunch ble været mye bedre og til slutt ble jakken med sensor tatt av, jobbet til kl 18:30 og reiste inn til middag 😄
+Kjetil
+
+MERK: Troll Air Field en rullebane for snø/is. Det er en 7 km kjøretur unna stasjonen, og er utsatt for noe av det mer ekstreme været vi ser i denne regionen.
+
+*Hi. I went out to TAF (Troll Air Field) in the morning, there was work around the airstrip before lunch and it was very windy and poor visibility. After lunch the weather got much better and finally the jacket with the sensor was taken off, worked until 18:30 and went back in for dinner 😄 Kjetil*
+
+*NOTE: Troll Air Field a snow/ice runway. It is a 7 km drive away from station, and is exposed to some of the more extreme weather we see in this region.*
+
+## **Neely: TONe-ICO Forsker** (TONe-ICO Scientist)
+
+![Temperature sensor location:  Utvendig bukselomme, exterior trouser pocket](Neely_20250204-08.jpg)
+
+In the morning we had some outdoor work to do setting up the Microwave Radiometer. In the afternoon, most of my work was indoors setting up our servers and data flow. There were some battles won and lost. But the data are flowing now.
+
+*Om morgenen hadde vi litt utendørs arbeid med å sette opp mikrobølgeradiometeret. På ettermiddagen var det meste av arbeidet mitt innendørs med å sette opp servere og dataflyt. Det var noen kamper vunnet og tapt. Men dataene flyter nå.*
+
+## **Ole Martin: Sjefskokk** (Head Cook)
+
+![Temperature Sensor Location: Bukselomme, Trouser pocket](OleMartin_20240204.jpg)
+
+Jeg jobbet mest på kjøkkenet denne dagen. Jeg måtte forlate bygningen for å hente forsyninger, eller jobbe kort i stasjonens walk-in-kjøleskap. Jeg trakk meg tidlig til sengs.
+
+*I was mostly working in the kitchen during this day. I had to leave the building to get supplies, or briefly work in the station walk-in refrigerator. I retired early to bed.*
+
+## **Robin: Snekker** (Carpenter)
+
+![Temperature sensor location:  Exterior Pocket](Robin_20250204.jpg)
+
+Er rundt omkring, inne i snekkerboden ofte i løp av dagen for å bygge ting ferdig der og ta med ut for montering, er innom kalde containere for å hente verktøy og er der i 5-10 min som regel.
+
+Går en del store distanser på området her fra container rekke til UiO
+
+(MERK: UIO-eksperimentet er også en del av TONe-prosjektpakken. De bygger en 45 m transceiver for å observere ionosfæren.)
+
+*I'm around, inside the carpenter's shop often during the day to finish building things there and take them out for assembly, I stop by the cold containers to pick up tools and I'm there for 5-10 minutes usually.*
+
+*I walk quite a few long distances in the area here from the container line to UiO.*
+
+*(NOTE: The UIO experiment is also part of the TONe project suite. They are building a 45 m transceiver to observe the ionosphere.)*
+
+## **Trond: Satellitttekniker med KSAT** (Satellite technician with KSAT)
+
+![Temperature sensor location:  Bukselomme, Trouser pocket](Trond_20250204-06.jpg)
+
+Jeg var innendørs og utendørs. Jeg brukte litt tid på å kjøre rundt ishyllen i et beltekjøretøy (og oppvarmet). Jeg gjorde også noen ærend på en ATV.
+
+*I was indoors and outdoors. I spent some time in driving around the ice shelf in a tracked (and heated) vehicle. I also did some errands on an ATV.*
