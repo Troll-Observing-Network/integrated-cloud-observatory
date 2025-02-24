@@ -10,6 +10,6 @@ image: tone-ico.jpeg
 
 All good things must come to an end... The TONe-ICO crew are heading home. During the past five weeks, these hard-working scientists have gone from a half-built foundation to a [fully-functional cloud observatory](tone-ico.jpeg). When they arrived, their four seatainers were still on the Fimbul Ice Shelf. But due to their hard work and [help from others](../thank-you/index.qmd), the Integrated Cloud Observatory is "online" and acquiring data. Thanks to Steve Hudson, Marius Bratrein, Ryan Neely III and Mike Town for a job well done! Safe travels!
 
-![The ICO crew in the airport "waiting room"!](the-crew.jpeg)
+![The happy ICO crew!](the-crew.jpeg)
 
 ![The plane home](the-plane.jpeg)
