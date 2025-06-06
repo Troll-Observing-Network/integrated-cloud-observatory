@@ -1,4 +1,5 @@
 # %%
+from os import remove
 import sys
 import pandas as pd
 import numpy as np
@@ -33,7 +34,10 @@ today     = pd.Timestamp.now()
 yesterday = today - pd.Timedelta('1 days')
 times = pd.date_range(yesterday.strftime('%Y-%m-%d')+' 00:00', yesterday.strftime('%Y-%m-%d')+' 23:00', freq='1h')
 
-# %%
+# %% Remove yesterday's data source file (so I don't fill the disk...)
+remove('/mnt/disk2/data/hysplit/datasrc/GFS/' + yesterday.strftime('%Y%m%d') + '_gfs0p25')
+
+# %% Download today's data
 download_GFS_data(today)
 
 # %%
