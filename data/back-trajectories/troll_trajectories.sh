@@ -21,5 +21,5 @@ git merge origin/main
 git push
 
 # ....Remove the large GFS file
-d=$(date -d "yesterday" -u +%Y%m%d)
+d=$(date -d "2 days ago" -u +%Y%m%d)
 rm ${d}_gfs0p25
