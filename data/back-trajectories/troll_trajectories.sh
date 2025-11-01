@@ -2,8 +2,8 @@
 
 # ....Calculate the back trajectories for yesterday
 cd /home/vonw/work/software/Troll-Observing-Network/integrated-cloud-observatory/data/back-trajectories
-/home/vonw/anaconda3/envs/work/bin/python create_troll_trajectories.py
-/home/vonw/anaconda3/envs/work/bin/python troll_trajectory_plots.py
+/home/vonw/vpwenv/.venv/bin/python create_troll_trajectories.py
+/home/vonw/vpwenv/.venv/bin/python troll_trajectory_plots.py
 cp docs/index.html ../../website/data/back-trajectories/.
 
 # ....Render the website with changes
@@ -19,3 +19,7 @@ git commit -m "Daily trajectories for ${d}"
 git fetch
 git merge origin/main
 git push
+
+# ....Remove the large GFS file
+d=$(date -d "yesterday" -u +%Y%m%d)
+rm ${d}_gfs0p25
