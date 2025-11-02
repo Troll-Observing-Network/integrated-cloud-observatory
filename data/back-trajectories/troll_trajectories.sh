@@ -22,4 +22,4 @@ git push
 
 # ....Remove the large GFS file
 d=$(date -d "2 days ago" -u +%Y%m%d)
-rm ${d}_gfs0p25
+rm /mnt/disk2/data/hysplit/datasrc/GFS/${d}_gfs0p25
