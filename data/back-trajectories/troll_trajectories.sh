@@ -20,6 +20,6 @@ git fetch
 git merge origin/main
 git push
 
-# ....Remove the large GFS file
-d=$(date -d "2 days ago" -u +%Y%m%d)
-rm /mnt/disk2/data/hysplit/datasrc/GFS/${d}_gfs0p25
+# ....Remove the large GFS file, but save last 9 days
+#d=$(date -d "9 days ago" -u +%Y%m%d)
+#rm /mnt/disk2/data/hysplit/datasrc/GFS/${d}_gfs0p25
