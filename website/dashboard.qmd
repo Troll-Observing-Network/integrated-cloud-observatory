@@ -4,16 +4,3 @@ title: "Data Dashboards"
 
 [Weather](https://stephenhudson.net/weather-display-troll-taf)
 
-[Back Trajectories](data/back-trajectories/index.html)
-
-<p></p>
-
-```
-Coming soon...
-  Uptime
-  Radiosondes
-  Cloud Radar
-  Cloud Lidar
-  Microwave Radiometer
-  CloudNet
-```
