@@ -85,6 +85,7 @@ p_dTheta     = ds.dTheta.hvplot(x='time', y='height', cmap='RdBu_r', ylim=(0,max
 p_q_mean     = ds.q_mean.hvplot(x='time', y='height', cmap='Blues', ylim=(0,max_traj_height), clabel='Specific Humidity, q (g/kg)', height=300, responsive=True)
 p_dq         = ds.dq.hvplot(x='time', y='height', cmap='RdBu', ylim=(0,max_traj_height), clim=(-10,10), clabel='Change in specific humidity, dq (g/kg)', height=300, responsive=True)
 
+# %%
 plots = hv.Layout([p_lat_median, p_alt_min, p_dTheta, p_q_mean, p_dq]).cols(1)
 hvplot.save(plots, 'docs/index.html')
 
