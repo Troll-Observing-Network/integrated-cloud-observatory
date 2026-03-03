@@ -2,5 +2,12 @@
 title: "Data Dashboards"
 ---
 
-[Weather](https://stephenhudson.net/weather-display-troll-taf)
+---
 
+[![](weather-icon.png){width=30%}](https://stephenhudson.net/weather-display-troll-taf)
+
+---
+
+[![](operations-icon.png){width=50%}](http://10.43.54.13:7202/tone-ico_operations_dashboard)
+
+---
