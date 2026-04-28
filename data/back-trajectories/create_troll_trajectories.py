@@ -29,7 +29,8 @@ def generate_back_trajectories(times):
     return
 
 # %%
-today     = pd.Timestamp.now()
+#today     = pd.Timestamp.now()
+today = pd.Timestamp('2026-04-21')
 yesterday = today - pd.Timedelta('1 days')
 times = pd.date_range(yesterday.strftime('%Y-%m-%d')+' 00:00', yesterday.strftime('%Y-%m-%d')+' 23:00', freq='1h')
 
